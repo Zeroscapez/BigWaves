@@ -1,4 +1,5 @@
-import { sf3cards } from "./Starforce3/sf3cardlibrary";
+import { sf3cardsBA } from './Starforce3/sf3-black-ace';
+import { sf3cardsRJ } from './Starforce3/sf3-red-joker';
 
 
 export const TYPE_MAP = {
@@ -50,6 +51,12 @@ export const CARD_CLASSES = {
     GIGA: 'Giga',
 };
 
-export const battlecards = [
-    ...sf3cards,
+
+
+export const SF3BABattlecards = [
+    ...sf3cardsBA.map(c => ({ ...c, id: `sf3ba-${c.id}` }))
+];
+
+export const SF3RJBattlecards = [
+    ...sf3cardsRJ.map(c => ({ ...c, id: `sf3rj-${c.id}` }))
 ];

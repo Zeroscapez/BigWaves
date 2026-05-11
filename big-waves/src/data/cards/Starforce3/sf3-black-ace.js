@@ -1,4 +1,92 @@
-export const sf3cards = [
+export const SF3BAVersionExclusiveCards =
+    [
+        {
+            "id": "sf3-001-wing-blade",
+            "name": "Wing Blade",
+            "nameJP": "ウィングブレード",
+            "types": [
+                "Null",
+                "Wind",
+                "Break"
+            ],
+            "game": "SF3",
+            "cardClass": "GIGA",
+            "damage": 450,
+            "upgrades": [],
+            "description": "3-pnl wide fwd center break attack",
+            "locations": [],
+            "obtained": false,
+            "image": null
+        },
+        {
+            "id": "sf3-002-darkness-hole",
+            "name": "Darkness Hole",
+            "nameJP": "ダークネスホール",
+            "types": [
+                "Null"
+            ],
+            "game": "SF3",
+            "cardClass": "GIGA",
+            "damage": 0,
+            "upgrades": [],
+            "description": "Del if below 250HP:virus,500HP:boss.",
+            "locations": [],
+            "obtained": false,
+            "image": null
+        },
+        {
+            "id": "sf3-003-milli-kick",
+            "name": "Milli Kick",
+            "nameJP": "サウサンドキック",
+            "types": [
+                "Null"
+            ],
+            "game": "SF3",
+            "cardClass": "GIGA",
+            "damage": 20,
+            "upgrades": [],
+            "description": "Mad 24-shot MilliKick attack.",
+            "locations": [],
+            "obtained": false,
+            "image": null
+        },
+        {
+            "id": "sf3-004-break-time-bomb",
+            "name": "Break Time Bomb",
+            "nameJP": "ブレイクカウントボム",
+            "types": [
+                "Fire",
+                "Break"
+            ],
+            "game": "SF3",
+            "cardClass": "GIGA",
+            "damage": 600,
+            "upgrades": [],
+            "description": "Set unblockable bmb atk 2 pnls ahd.",
+            "locations": [],
+            "obtained": false,
+            "image": null
+        },
+        {
+            "id": "sf3-005-mu-barrier",
+            "name": "Mu Barrier",
+            "nameJP": "ムーリジェクション",
+            "types": [
+                "Null"
+            ],
+            "game": "SF3",
+            "cardClass": "GIGA",
+            "damage": 0,
+            "upgrades": [],
+            "description": "Regenerate wall of Mu w/each move",
+            "locations": [],
+            "obtained": false,
+            "image": null
+        },
+
+    ];
+
+export const sf3cardsBA = [
 
     {
         "id": "sf3-001-cannon",
@@ -7694,169 +7782,5 @@ export const sf3cards = [
         "obtained": false,
         "image": null
     },
-    {
-        "id": "sf3-001-wing-blade",
-        "name": "Wing Blade",
-        "nameJP": "ウィングブレード",
-        "types": [
-            "Null",
-            "Wind",
-            "Break"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 450,
-        "upgrades": [],
-        "description": "3-pnl wide fwd center break attack",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    },
-    {
-        "id": "sf3-002-darkness-hole",
-        "name": "Darkness Hole",
-        "nameJP": "ダークネスホール",
-        "types": [
-            "Null"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 0,
-        "upgrades": [],
-        "description": "Del if below 250HP:virus,500HP:boss.",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    },
-    {
-        "id": "sf3-003-milli-kick",
-        "name": "Milli Kick",
-        "nameJP": "サウサンドキック",
-        "types": [
-            "Null"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 20,
-        "upgrades": [],
-        "description": "Mad 24-shot MilliKick attack.",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    },
-    {
-        "id": "sf3-004-break-time-bomb",
-        "name": "Break Time Bomb",
-        "nameJP": "ブレイクカウントボム",
-        "types": [
-            "Fire",
-            "Break"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 600,
-        "upgrades": [],
-        "description": "Set unblockable bmb atk 2 pnls ahd.",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    },
-    {
-        "id": "sf3-005-mu-barrier",
-        "name": "Mu Barrier",
-        "nameJP": "ムーリジェクション",
-        "types": [
-            "Null"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 0,
-        "upgrades": [],
-        "description": "Regenerate wall of Mu w/each move",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    },
-    {
-        "id": "sf3-001-dread-laser",
-        "name": "Dread Laser",
-        "nameJP": "Ｇメテオレーザー",
-        "types": [
-            "Null"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 30,
-        "upgrades": [],
-        "description": "Crack 3 fwd pnls w/DreadMeteorLaser",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    },
-    {
-        "id": "sf3-002-destroy-missile",
-        "name": "Destroy Missile",
-        "nameJP": "デストロイミサイル",
-        "types": [
-            "Null"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 50,
-        "upgrades": [],
-        "description": "Hit all enemies on normal pnls",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    },
-    {
-        "id": "sf3-003-buster-max",
-        "name": "Buster MAX",
-        "nameJP": "バスターマックス",
-        "types": [
-            "Null"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 0,
-        "upgrades": [],
-        "description": "Rapd & Chrg: max pwr. atk: max+",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    },
-    {
-        "id": "sf3-004-ox-tackle",
-        "name": "Ox Tackle",
-        "nameJP": "オックスタックル",
-        "types": [
-            "Fire",
-            "Break"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 520,
-        "upgrades": [],
-        "description": "OxTackle all enemies in 1 column.",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    },
-    {
-        "id": "sf3-005-mirror-s-edge",
-        "name": "Mirror's Edge",
-        "nameJP": "ドッペルミラー",
-        "types": [
-            "Null"
-        ],
-        "game": "SF3",
-        "cardClass": "GIGA",
-        "damage": 0,
-        "upgrades": [],
-        "description": "Mirror sucks HP of emies on same col",
-        "locations": [],
-        "obtained": false,
-        "image": null
-    }
-
+    ...SF3BAVersionExclusiveCards
 ];

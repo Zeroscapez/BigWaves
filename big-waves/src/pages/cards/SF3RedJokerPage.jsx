@@ -25,7 +25,8 @@ export default function SF3RedJokerPage() {
                     return (
                         c.name.toLowerCase().includes(q) ||
                         c.nameJP?.toLowerCase().includes(q) ||
-                        c.description.toLowerCase().includes(q)
+                        c.description.toLowerCase().includes(q) ||
+                        c.id.split('-')[2].toLowerCase().includes(q)
                     );
                 }
                 return true;
@@ -34,7 +35,7 @@ export default function SF3RedJokerPage() {
 
     return (
         <div style={{ maxWidth: '960px', margin: '0 auto', padding: '40px 24px' }}>
-            <h1>Star Force 3 — Black Ace</h1>
+            <h1>Star Force 3 — Red Joker</h1>
             <p style={{ color: '#555', marginBottom: '24px' }}>{cards.length} cards</p>
 
             {/* Filters */}
@@ -114,6 +115,7 @@ export default function SF3RedJokerPage() {
 
                             <div style={{ flex: 1 }}>
                                 <div style={{ display: 'flex', alignItems: 'baseline', gap: '8px' }}>
+                                    <strong>{card.id.split('-')[2]}</strong>
                                     <strong>{card.name}</strong>
                                     {card.nameJP && <span style={{ fontSize: '13px', color: '#888' }}>{card.nameJP}</span>}
                                 </div>

@@ -1,47 +1,46 @@
 import { Link } from 'react-router-dom';
-
 import { useCardTracker } from '../hooks/useCardTracker';
 import { SF3BABattlecards } from '../data/cards/battlecards';
 import { SF3RJBattlecards } from '../data/cards/battlecards';
+import styles from './css/HomePage.module.css';
 
 const GAME_CARDS = [
     {
         key: 'SF3BA',
-        cards: SF3BABattlecards,
         title: 'Mega Man Star Force 3',
         subtitle: 'Black Ace',
         to: '/cards/sf3-black-ace',
         coverArt: '/src/assets/coverart/sf3-black-ace.png',
-        releaseDates: {
-            JP: 'July 30, 2008',
-            NA: 'November 4, 2008',
-        },
+        accentColor: '#00f5ff',
+        releaseDates: { JP: 'July 30, 2008', NA: 'November 4, 2008' },
+        cards: SF3BABattlecards,
     },
     {
         key: 'SF3RJ',
-        cards: SF3RJBattlecards,
         title: 'Mega Man Star Force 3',
         subtitle: 'Red Joker',
         to: '/cards/sf3-red-joker',
         coverArt: '/src/assets/coverart/sf3-red-joker.png',
-        releaseDates: {
-            JP: 'July 30, 2008',
-            NA: 'November 4, 2008',
-        },
+        accentColor: '#ff3d5a',
+        releaseDates: { JP: 'July 30, 2008', NA: 'November 4, 2008' },
+        cards: SF3RJBattlecards,
     },
 ];
 
-function ProgressBar({ value, max }) {
-    const percentage = max > 0 ? (value / max) * 100 : 0;
+function ProgressBar({ value, max, color }) {
+    const pct = max > 0 ? Math.round((value / max) * 100) : 0;
     return (
-        <div style={{ background: '#eee', borderRadius: '4px', height: '8px', overflow: 'hidden' }}>
-            <div style={{
-                width: `${percentage}%`,
-                height: '100%',
-                background: '#4a90e2',
-                borderRadius: '4px',
-                transition: 'width 0.3s ease',
-            }} />
+        <div className={styles.progressWrapper}>
+            <div className={styles.progressTrack}>
+                <div
+                    className={styles.progressFill}
+                    style={{ width: `${pct}%`, background: color, boxShadow: `0 0 8px ${color}` }}
+                />
+            </div>
+            <div className={styles.progressLabel}>
+                <span>{value} / {max} cards</span>
+                <span>{pct}%</span>
+            </div>
         </div>
     );
 }
@@ -50,54 +49,73 @@ export default function HomePage() {
     const { obtained } = useCardTracker();
 
     return (
-        <div style={{ maxWidth: '960px', margin: '0 auto', padding: '40px 24px' }}>
-            <h1>SF Tracker</h1>
-            <p>Track your Mega Man Star Force battlecard collection.</p>
+        <div className={styles.page}>
 
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: '24px', marginTop: '40px' }}>
-                {GAME_CARDS.map(game => {
-                    const gameCards = game.cards;
-                    const gameObtained = gameCards.filter(c => obtained.has(c.id)).length;
+            {/* Star field */}
+            <div className={styles.stars} />
 
-                    return (
-                        <Link
-                            key={game.key}
-                            to={game.to}
-                            style={{ textDecoration: 'none', color: 'inherit' }}
-                        >
-                            <div style={{ border: '1px solid #ccc', borderRadius: '8px', overflow: 'hidden' }}>
+            {/* Hero */}
+            <section className={styles.hero}>
+                <div className={styles.heroEyebrow}>EM WAVE SYSTEM ONLINE</div>
+                <h1 className={styles.heroTitle}>
+                    <span className={styles.heroTitleTop}>BIG WAVES</span>
+                    <span className={styles.heroTitleBottom}>BATTLECARD TRACKER</span>
+                </h1>
+                <p className={styles.heroSubtitle}>
+                    Track your Mega Man Star Force battlecard collection.<br />
+                    Find enemies, complete your library, build your folder.
+                </p>
+            </section>
+
+            {/* Game cards */}
+            <section className={styles.gamesSection}>
+                <div className={styles.sectionLabel}>SELECT GAME</div>
+                <div className={styles.gameGrid}>
+                    {GAME_CARDS.map(game => {
+                        const total = game.cards.length;
+                        const got = game.cards.filter(c => obtained.has(c.id)).length;
+                        return (
+                            <Link key={game.key} to={game.to} className={styles.gameCard} style={{ '--accent': game.accentColor }}>
+                                <div className={styles.gameCardGlow} />
 
                                 {/* Cover art */}
-                                <div style={{ height: '200px', background: '#f0f0f0', overflow: 'hidden' }}>
+                                <div className={styles.coverArtWrapper}>
                                     <img
                                         src={game.coverArt}
                                         alt={`${game.title} ${game.subtitle}`}
-                                        style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                                        className={styles.coverArt}
                                         onError={e => { e.target.style.display = 'none'; }}
                                     />
+                                    <div className={styles.coverArtOverlay} />
                                 </div>
 
-                                {/* Info */}
-                                <div style={{ padding: '16px' }}>
-                                    <div style={{ fontSize: '13px', color: '#888' }}>{game.title}</div>
-                                    <h2 style={{ fontSize: '20px', margin: '4px 0 12px' }}>{game.subtitle}</h2>
+                                {/* Card info */}
+                                <div className={styles.gameCardBody}>
+                                    <div className={styles.gameCardMeta}>{game.title}</div>
+                                    <h2 className={styles.gameCardTitle}>{game.subtitle}</h2>
 
-                                    <div style={{ fontSize: '13px', color: '#555', marginBottom: '16px' }}>
-                                        <div>🇯🇵 {game.releaseDates.JP}</div>
-                                        <div>🇺🇸 {game.releaseDates.NA}</div>
+                                    <div className={styles.releaseDates}>
+                                        <div className={styles.releaseDate}>
+                                            <span className={styles.releaseDateFlag}>JP</span>
+                                            <span>{game.releaseDates.JP}</span>
+                                        </div>
+                                        <div className={styles.releaseDate}>
+                                            <span className={styles.releaseDateFlag}>NA</span>
+                                            <span>{game.releaseDates.NA}</span>
+                                        </div>
                                     </div>
 
-                                    <ProgressBar value={gameObtained} max={gameCards.length} />
-                                    <div style={{ fontSize: '13px', color: '#555', marginTop: '6px' }}>
-                                        {gameObtained} / {gameCards.length} cards obtained
+                                    <ProgressBar value={got} max={total} color={game.accentColor} />
+
+                                    <div className={styles.gameCardCta}>
+                                        VIEW CARDS <span className={styles.ctaArrow}>→</span>
                                     </div>
                                 </div>
-
-                            </div>
-                        </Link>
-                    );
-                })}
-            </div>
+                            </Link>
+                        );
+                    })}
+                </div>
+            </section>
         </div>
     );
 }

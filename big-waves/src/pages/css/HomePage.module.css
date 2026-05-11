@@ -1,0 +1,406 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Rajdhani:wght@400;500;600;700&display=swap');
+
+:root {
+    --mm-navy: #050d1f;
+    --mm-blue: #0a1a4a;
+    --mm-mid: #0d2460;
+    --mm-cyan: #00c8ff;
+    --mm-cyan-bright: #00f5ff;
+    --mm-red: #ff2244;
+    --mm-white: #e8f4ff;
+    --mm-dim: #4a7a9b;
+    --mm-darker: #020812;
+}
+
+/* Page */
+.page {
+    min-height: 100vh;
+    background: var(--mm-navy);
+    color: var(--mm-white);
+    font-family: 'Rajdhani', sans-serif;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Deep blue gradient background */
+.page::after {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+        radial-gradient(ellipse at 20% 50%, rgba(10, 26, 74, 0.8) 0%, transparent 60%),
+        radial-gradient(ellipse at 80% 20%, rgba(0, 200, 255, 0.05) 0%, transparent 50%),
+        radial-gradient(ellipse at 50% 100%, rgba(255, 34, 68, 0.04) 0%, transparent 50%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* EM wave grid - blue tinted */
+.page::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+        linear-gradient(rgba(0, 200, 255, 0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 200, 255, 0.04) 1px, transparent 1px);
+    background-size: 48px 48px;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* Star field - blue tinted stars */
+.stars {
+    position: fixed;
+    inset: 0;
+    background-image:
+        radial-gradient(1px 1px at 10% 20%, rgba(200, 230, 255, 0.8) 0%, transparent 100%),
+        radial-gradient(1px 1px at 25% 65%, rgba(200, 230, 255, 0.5) 0%, transparent 100%),
+        radial-gradient(1px 1px at 40% 10%, rgba(200, 230, 255, 0.6) 0%, transparent 100%),
+        radial-gradient(1px 1px at 55% 80%, rgba(200, 230, 255, 0.4) 0%, transparent 100%),
+        radial-gradient(1px 1px at 70% 35%, rgba(200, 230, 255, 0.7) 0%, transparent 100%),
+        radial-gradient(1px 1px at 80% 70%, rgba(200, 230, 255, 0.5) 0%, transparent 100%),
+        radial-gradient(1px 1px at 90% 15%, rgba(200, 230, 255, 0.6) 0%, transparent 100%),
+        radial-gradient(1px 1px at 15% 90%, rgba(200, 230, 255, 0.4) 0%, transparent 100%),
+        radial-gradient(2px 2px at 60% 50%, rgba(0, 200, 255, 0.6) 0%, transparent 100%),
+        radial-gradient(2px 2px at 35% 40%, rgba(0, 200, 255, 0.4) 0%, transparent 100%),
+        radial-gradient(1px 1px at 85% 25%, rgba(255, 34, 68, 0.4) 0%, transparent 100%),
+        radial-gradient(1px 1px at 45% 75%, rgba(0, 200, 255, 0.3) 0%, transparent 100%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* Hero */
+.hero {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    padding: 80px 24px 60px;
+    animation: fadeUp 0.8s ease both;
+}
+
+.heroEyebrow {
+    font-family: 'Orbitron', monospace;
+    font-size: 11px;
+    letter-spacing: 0.25em;
+    color: var(--mm-cyan);
+    margin-bottom: 20px;
+    opacity: 0.8;
+}
+
+/* Red visor accent line above eyebrow */
+.heroEyebrow::before {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 2px;
+    background: var(--mm-red);
+    margin: 0 auto 12px;
+    box-shadow: 0 0 8px var(--mm-red);
+}
+
+.heroTitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    margin-bottom: 20px;
+}
+
+.heroTitleTop {
+    font-family: 'Orbitron', monospace;
+    font-size: clamp(40px, 8vw, 80px);
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    background: linear-gradient(135deg, #1a3fff 0%, #00c8ff 40%, #00f5ff 60%, #ff2244 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    filter: drop-shadow(0 0 30px rgba(0, 200, 255, 0.5));
+    line-height: 1;
+}
+
+.heroTitleBottom {
+    font-family: 'Orbitron', monospace;
+    font-size: clamp(12px, 2.5vw, 22px);
+    font-weight: 600;
+    letter-spacing: 0.3em;
+    color: var(--mm-dim);
+}
+
+.heroSubtitle {
+    font-size: 17px;
+    color: var(--mm-dim);
+    line-height: 1.7;
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+/* Games section */
+.gamesSection {
+    position: relative;
+    z-index: 1;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px 80px;
+    animation: fadeUp 0.8s 0.15s ease both;
+}
+
+.sectionLabel {
+    font-family: 'Orbitron', monospace;
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    color: var(--mm-dim);
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+/* Decorative lines either side of section label */
+.sectionLabel::before,
+.sectionLabel::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(0, 200, 255, 0.2));
+}
+
+.sectionLabel::after {
+    background: linear-gradient(90deg, rgba(0, 200, 255, 0.2), transparent);
+}
+
+.gameGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 24px;
+}
+
+/* Game card */
+.gameCard {
+    position: relative;
+    border: 1px solid rgba(0, 200, 255, 0.12);
+    border-radius: 12px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background: rgba(5, 13, 31, 0.9);
+    transition: border-color 0.25s ease, transform 0.25s ease, box-shadow 0.25s ease;
+    display: block;
+}
+
+.gameCard:hover {
+    border-color: var(--accent);
+    transform: translateY(-4px);
+    box-shadow:
+        0 16px 48px rgba(0, 0, 0, 0.7),
+        0 0 32px rgba(0, 200, 255, 0.08),
+        inset 0 0 24px rgba(0, 200, 255, 0.03);
+}
+
+.gameCardGlow {
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at top, rgba(0, 200, 255, 0.06), transparent 70%);
+    opacity: 0;
+    transition: opacity 0.25s ease;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.gameCard:hover .gameCardGlow {
+    opacity: 1;
+}
+
+/* Top accent line - blue by default, switches to game accent on hover */
+.gameCard::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--mm-blue), transparent);
+    transition: background 0.25s ease, opacity 0.25s ease;
+    z-index: 2;
+}
+
+.gameCard:hover::before {
+    background: linear-gradient(90deg, transparent, var(--accent), transparent);
+    box-shadow: 0 0 12px var(--accent);
+}
+
+/* Cover art */
+.coverArtWrapper {
+    position: relative;
+    height: 220px;
+    background: linear-gradient(135deg, var(--mm-blue), var(--mm-darker));
+    overflow: hidden;
+}
+
+.coverArt {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.85;
+    transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+.gameCard:hover .coverArt {
+    transform: scale(1.04);
+    opacity: 1;
+}
+
+.coverArtOverlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom,
+            rgba(5, 13, 31, 0.1) 0%,
+            rgba(5, 13, 31, 0.0) 40%,
+            rgba(5, 13, 31, 0.95) 100%);
+}
+
+/* Card body */
+.gameCardBody {
+    position: relative;
+    z-index: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.gameCardMeta {
+    font-family: 'Orbitron', monospace;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    color: var(--mm-dim);
+    text-transform: uppercase;
+}
+
+.gameCardTitle {
+    font-family: 'Orbitron', monospace;
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: 0.05em;
+    margin: 0;
+    text-shadow: 0 0 20px var(--accent);
+    transition: text-shadow 0.25s ease;
+}
+
+.gameCard:hover .gameCardTitle {
+    text-shadow: 0 0 30px var(--accent), 0 0 60px var(--accent);
+}
+
+/* Release dates */
+.releaseDates {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.releaseDate {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    color: var(--mm-dim);
+}
+
+.releaseDateFlag {
+    font-family: 'Orbitron', monospace;
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--mm-cyan);
+    background: rgba(0, 200, 255, 0.08);
+    border: 1px solid rgba(0, 200, 255, 0.2);
+    border-radius: 3px;
+    padding: 1px 6px;
+    letter-spacing: 0.1em;
+}
+
+/* Progress bar */
+.progressWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.progressTrack {
+    height: 4px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 99px;
+    overflow: hidden;
+    border: 1px solid rgba(0, 200, 255, 0.08);
+}
+
+.progressFill {
+    height: 100%;
+    border-radius: 99px;
+    transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.progressLabel {
+    display: flex;
+    justify-content: space-between;
+    font-size: 11px;
+    color: var(--mm-dim);
+    font-family: 'Orbitron', monospace;
+    letter-spacing: 0.05em;
+}
+
+/* CTA */
+.gameCardCta {
+    font-family: 'Orbitron', monospace;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    color: var(--accent);
+    opacity: 0;
+    transform: translateX(-4px);
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    margin-top: 4px;
+}
+
+.gameCard:hover .gameCardCta {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.ctaArrow {
+    display: inline-block;
+    transition: transform 0.25s ease;
+}
+
+.gameCard:hover .ctaArrow {
+    transform: translateX(4px);
+}
+
+/* Animations */
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+    .hero {
+        padding: 60px 16px 40px;
+    }
+
+    .gamesSection {
+        padding: 0 16px 60px;
+    }
+
+    .gameGrid {
+        grid-template-columns: 1fr;
+    }
+}

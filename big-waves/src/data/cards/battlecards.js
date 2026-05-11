@@ -1,10 +1,11 @@
-import { sf3cardsBA } from './Starforce3/sf3-black-ace';
-import { sf3cardsRJ } from './Starforce3/sf3-red-joker';
+import { SF3BAVersionExclusiveCards } from './Starforce3/sf3-black-ace';
+import { SF33RJVersionExclusiveCards } from './Starforce3/sf3-red-joker';
+import { sf3battlecards } from './Starforce3/sf3battlecards';
 
 
 export const TYPE_MAP = {
     'Null': 'NULL',
-    'None': 'NULL',
+    'None': 'NONE',
     'Heat': 'FIRE',
     'Fire': 'FIRE',
     'Aqua': 'AQUA',
@@ -28,16 +29,21 @@ export function normaliseTypes(rawTypes) {
 
 export const ELEMENTS = {
     NONE: 'None',
+    NULL: 'Null',
     FIRE: 'Fire',
     AQUA: 'Aqua',
     ELEC: 'Elec',
     WOOD: 'Wood',
+
+};
+
+export const ATTRIBUTES = {
     SWORD: 'Sword',
     WIND: 'Wind',
     BREAK: 'Break',
     CURSOR: 'Cursor',
     RECOVER: 'Recover',
-};
+}
 
 export const GAMES = {
     SF1: 'Star Force 1',
@@ -54,9 +60,12 @@ export const CARD_CLASSES = {
 
 
 export const SF3BABattlecards = [
-    ...sf3cardsBA.map(c => ({ ...c, id: `sf3ba-${c.id}` }))
+    ...sf3battlecards.map(c => ({ ...c, id: `sf3ba-${c.id}` })),
+    ...SF3BAVersionExclusiveCards.map(c => ({ ...c, id: `sf3ba-${c.id}` }))
 ];
 
 export const SF3RJBattlecards = [
-    ...sf3cardsRJ.map(c => ({ ...c, id: `sf3rj-${c.id}` }))
+    ...sf3battlecards.map(c => ({ ...c, id: `sf3rj-${c.id}` })),
+    ...SF33RJVersionExclusiveCards.map(c => ({ ...c, id: `sf3rj-${c.id}` }))
+
 ];

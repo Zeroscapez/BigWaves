@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700;900&family=Rajdhani:wght@400;500;600;700&display=swap');
+
+.card {
+    position: relative;
+    background: #111118;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    cursor: default;
+}
+
+.card:hover {
+    border-color: var(--accent);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6), 0 0 16px rgba(0, 0, 0, 0.3);
+}
+
+.card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, var(--accent), transparent);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    z-index: 2;
+}
+
+.card:hover::before {
+    opacity: 1;
+}
+
+/* Obtained state */
+.card.obtained {
+    border-color: rgba(57, 255, 20, 0.3);
+}
+
+.obtainedOverlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(57, 255, 20, 0.06);
+    z-index: 3;
+    pointer-events: none;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 8px;
+}
+
+.checkmark {
+    width: 22px;
+    height: 22px;
+    background: #39ff14;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 900;
+    color: #050505;
+    box-shadow: 0 0 10px #39ff14;
+}
+
+/* Artwork */
+.artwork {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    background: #0a0a0f;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.artworkImg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.artworkPlaceholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #0d0d14, #111120);
+    position: relative;
+}
+
+/* Subtle grid on placeholder */
+.artworkPlaceholder::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+        linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+    background-size: 16px 16px;
+}
+
+.placeholderText {
+    font-family: 'Orbitron', monospace;
+    font-size: 10px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.15);
+    text-align: center;
+    padding: 8px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1;
+}
+
+/* Info section */
+.info {
+    padding: 8px 10px 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    flex: 1;
+}
+
+.nameRow {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+}
+
+.cardNumber {
+    font-family: 'Orbitron', monospace;
+    font-size: 9px;
+    color: var(--accent);
+    opacity: 0.7;
+    flex-shrink: 0;
+}
+
+.cardName {
+    font-family: 'Orbitron', monospace;
+    font-size: 11px;
+    font-weight: 700;
+    color: #e8f4ff;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.nameJP {
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.3);
+    line-height: 1;
+}
+
+.badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    align-items: center;
+}
+
+.damage {
+    font-family: 'Orbitron', monospace;
+    font-size: 10px;
+    font-weight: 700;
+    color: #ff6060;
+    margin-left: auto;
+}
+
+.description {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.4);
+    line-height: 1.4;
+    margin: 0;
+}
+
+/* Obtain button */
+.obtainBtn {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    background: rgba(0, 0, 0, 0.4);
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    z-index: 4;
+    line-height: 1;
+}
+
+.obtainBtn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: rgba(0, 0, 0, 0.6);
+    box-shadow: 0 0 8px var(--accent);
+}
+
+.card.obtained .obtainBtn {
+    border-color: #39ff14;
+    color: #39ff14;
+    background: rgba(0, 0, 0, 0.4);
+}

@@ -62,7 +62,6 @@ Card data lives in `src/data/cards/`. Each file exports an array of card objects
   name: 'Card Name',
   nameJP: 'カード名',
   types: ['Null'],
-  game: 'SF3BA',
   cardClass: 'STANDARD',
   damage: 100,
   upgrades: [10, 20, 30, 40, 50, 60],

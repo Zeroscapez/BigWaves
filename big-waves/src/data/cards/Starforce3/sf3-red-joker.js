@@ -13,7 +13,7 @@ export const SF33RJVersionExclusiveCards = [
         "description": "Crack 3 fwd pnls w/DreadMeteorLaser",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0201_card_id_grave_meteo_laser_iml4.png"
     },
     {
         "id": "sf3-002-destroy-missile",
@@ -29,7 +29,7 @@ export const SF33RJVersionExclusiveCards = [
         "description": "Hit all enemies on normal pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0202_card_id_destroy_missile_iml4.png"
     },
     {
         "id": "sf3-003-buster-max",
@@ -45,7 +45,7 @@ export const SF33RJVersionExclusiveCards = [
         "description": "Rapd & Chrg: max pwr. atk: max+",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0203_card_id_buster_max_iml4.png"
     },
     {
         "id": "sf3-004-ox-tackle",
@@ -62,7 +62,7 @@ export const SF33RJVersionExclusiveCards = [
         "description": "OxTackle all enemies in 1 column.",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0204_card_id_ox_tackle_iml4.png"
     },
     {
         "id": "sf3-005-mirror-s-edge",
@@ -78,7 +78,7 @@ export const SF33RJVersionExclusiveCards = [
         "description": "Mirror sucks HP of emies on same col",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0205_card_id_doppel_mirror_iml4.png"
     }
 
 ]

@@ -89,7 +89,7 @@ export const sf3battlecards = [
         "description": "Cannon atk spreads dmg to adj pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0272_card_id_std_x00_iml4.png"
     },
     {
         "id": "sf3-004-plasmagun",
@@ -159,7 +159,7 @@ export const sf3battlecards = [
         "description": "3-shot atk. Spreads dmg in V ptrn",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0005_card_id_air_spread1_iml4.png"
     },
     {
         "id": "sf3-006-air-spread-2",
@@ -183,7 +183,7 @@ export const sf3battlecards = [
         "description": "3-shot atk. Spreads dmg in X ptrn",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0006_card_id_air_spread2_iml4.png"
     },
     {
         "id": "sf3-007-air-spread-3",
@@ -207,7 +207,7 @@ export const sf3battlecards = [
         "description": "3-shot atk. Spreads dmg to adj pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0007_card_id_air_spread3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-air-spread-x",
@@ -254,7 +254,7 @@ export const sf3battlecards = [
         "description": "5-shot Vlcn atk also ignites rear",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0102_card_id_mad_balkan1_iml4.png"
     },
     {
         "id": "sf3-009-mad-vulcan-2",
@@ -277,7 +277,7 @@ export const sf3battlecards = [
         "description": "8-shot Vlcn atk also ignites rear",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0103_card_id_mad_balkan2_iml4.png"
     },
     {
         "id": "sf3-010-mad-vulcan-3",
@@ -300,7 +300,7 @@ export const sf3battlecards = [
         "description": "12-shot Vlcn atk also ignites rear",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0104_card_id_mad_balkan3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-mad-vulcan-x",
@@ -323,7 +323,7 @@ export const sf3battlecards = [
         "description": "15-shot Vlcn atk also ignites rear",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0306_card_id_std_x34_iml4.png"
     },
     {
         "id": "sf3-011-black-ink",
@@ -346,7 +346,7 @@ export const sf3battlecards = [
         "description": "Blinding atk spreads dmg to adj pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0028_card_id_black_ink_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-green-ink",
@@ -369,7 +369,7 @@ export const sf3battlecards = [
         "description": "If hit emy, adj pnls trn into grass",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0243_card_id_illegal_green_ink_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-blue-ink",
@@ -392,7 +392,7 @@ export const sf3battlecards = [
         "description": "If hit emy, adj pnls trn into ice",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0244_card_id_illegal_blue_ink_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-purple-ink",
@@ -415,7 +415,7 @@ export const sf3battlecards = [
         "description": "If hit emy, adj pnls trn into poison",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0245_card_id_illegal_purple_ink_iml4.png"
     },
     {
         "id": "sf3-012-mini-grenade",
@@ -438,7 +438,7 @@ export const sf3battlecards = [
         "description": "Lob a 6-shot grenade at your enemy",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0008_card_id_mini_grenade_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-heat-grenade",
@@ -461,7 +461,7 @@ export const sf3battlecards = [
         "description": "Lob a 9-pnl fire grenade at enemy",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0232_card_id_illegal_heat_grenade_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-wood-grenade",
@@ -484,7 +484,7 @@ export const sf3battlecards = [
         "description": "Grenade that turns 9 pnls into grass",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0233_card_id_illegal_green_grenade_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-ice-grenade",
@@ -507,7 +507,7 @@ export const sf3battlecards = [
         "description": "Grenade that turns 9 pnls into ice",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0234_card_id_illegal_ice_grenade_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-big-grenade",
@@ -530,7 +530,7 @@ export const sf3battlecards = [
         "description": "3-hit atk dmgs all adj pnls if hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0275_card_id_std_x03_iml4.png"
     },
     {
         "id": "sf3-013-sword",
@@ -554,7 +554,7 @@ export const sf3battlecards = [
         "description": "Cuts emy in frnt of you",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0019_card_id_sword_iml4.png"
     },
     {
         "id": "sf3-014-wide-sword",
@@ -578,7 +578,7 @@ export const sf3battlecards = [
         "description": "Cuts emies in row in frnt of you",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0020_card_id_wide_sword_iml4.png"
     },
     {
         "id": "sf3-015-long-sword",
@@ -602,7 +602,7 @@ export const sf3battlecards = [
         "description": "Cuts emy in frnt of you. Rnge:2 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0021_card_id_long_sword_iml4.png"
     },
     {
         "id": "sf3-016-bushido-1",
@@ -626,7 +626,7 @@ export const sf3battlecards = [
         "description": "Selct w/same card makes swrd strongr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0096_card_id_edo_blade1_iml4.png"
     },
     {
         "id": "sf3-017-bushido-2",
@@ -650,7 +650,7 @@ export const sf3battlecards = [
         "description": "Selct w/same card makes swrd strongr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0097_card_id_edo_blade2_iml4.png"
     },
     {
         "id": "sf3-018-bushido-3",
@@ -674,7 +674,7 @@ export const sf3battlecards = [
         "description": "Selct w/same card makes swrd strongr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0098_card_id_edo_blade3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-bushido-x",
@@ -722,7 +722,7 @@ export const sf3battlecards = [
         "description": "Elec swrd cut 'n prlyz emy in row",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0239_card_id_illegal_elec_slash_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-wood-slash",
@@ -746,7 +746,7 @@ export const sf3battlecards = [
         "description": "Wood swrd cuts emy in row in frnt",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0240_card_id_illegal_wood_slash_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-fire-slash",
@@ -770,7 +770,7 @@ export const sf3battlecards = [
         "description": "Fire swrd cuts emy in row in frnt",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0241_card_id_illegal_fire_slash_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-break-sabre",
@@ -795,7 +795,7 @@ export const sf3battlecards = [
         "description": "Diag saber atk. Cuts thru shield",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0242_card_id_illegal_break_sabre_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-break-sabre-x",
@@ -844,7 +844,7 @@ export const sf3battlecards = [
         "description": "Swing Wood ax thru 3x2 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0022_card_id_great_axe_iml4.png"
     },
     {
         "id": "sf3-020-flame-axe",
@@ -868,7 +868,7 @@ export const sf3battlecards = [
         "description": "Swing giant fire ax thru 3x2 sqrs",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0123_card_id_flame_axe_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-giant-axe",
@@ -893,7 +893,7 @@ export const sf3battlecards = [
         "description": "Swing Guard-busting ax thru 3x2 pnl",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0279_card_id_std_x07_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-muramasa",
@@ -910,7 +910,7 @@ export const sf3battlecards = [
         "description": "Sword Atk is as strong as you are weak",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0251_card_id_illegal_muramasa_blade_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-sword-fighter-1",
@@ -934,7 +934,7 @@ export const sf3battlecards = [
         "description": "Mad 3-slash sword attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0261_card_id_sword_fighter1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-sword-fighter-2",
@@ -958,7 +958,7 @@ export const sf3battlecards = [
         "description": "Mad 4-slash sword attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0262_card_id_sword_fighter2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-sword-fighter-3",
@@ -982,7 +982,7 @@ export const sf3battlecards = [
         "description": "Mad 5-slash sword attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0263_card_id_sword_fighter3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-sword-fighter-x",
@@ -1030,7 +1030,7 @@ export const sf3battlecards = [
         "description": "Knock emy in frnt all the way back",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0015_card_id_windy_attack1_iml4.png"
     },
     {
         "id": "sf3-022-windy-attack-2",
@@ -1054,7 +1054,7 @@ export const sf3battlecards = [
         "description": "Knock emy in frnt all the way back",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0016_card_id_windy_attack2_iml4.png"
     },
     {
         "id": "sf3-023-windy-attack-3",
@@ -1078,7 +1078,7 @@ export const sf3battlecards = [
         "description": "Knock emy in frnt all the way back",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0017_card_id_windy_attack3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-windy-attack-x",
@@ -1125,7 +1125,7 @@ export const sf3battlecards = [
         "description": "Lft hook all of the same type of emy",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0023_card_id_synchro_hook1_iml4.png"
     },
     {
         "id": "sf3-025-synchro-hook-2",
@@ -1148,7 +1148,7 @@ export const sf3battlecards = [
         "description": "Lft hook all of the same type of emy",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0024_card_id_synchro_hook2_iml4.png"
     },
     {
         "id": "sf3-026-synchro-hook-3",
@@ -1171,7 +1171,7 @@ export const sf3battlecards = [
         "description": "Lft hook all of the same type of emy",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0025_card_id_synchro_hook3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-synchro-hook-x",
@@ -1217,7 +1217,7 @@ export const sf3battlecards = [
         "description": "Punch and paralyze emy in front",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0236_card_id_illegal_stan_knuckle_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-poison-knuckle",
@@ -1240,7 +1240,7 @@ export const sf3battlecards = [
         "description": "Punch and HP bug emy in frnt of you",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0237_card_id_illegal_poison_knuckle_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-freeze-knuckle",
@@ -1263,7 +1263,7 @@ export const sf3battlecards = [
         "description": "Punch and freez emy in frnt of you",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0238_card_id_illegal_freeze_knuckle_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-destroy-upper",
@@ -1287,7 +1287,7 @@ export const sf3battlecards = [
         "description": "In match, uprcut nulls 5 body abils",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0249_card_id_illegal_destroy_upper_iml4.png"
     },
     {
         "id": "sf3-027-drill-arm-1",
@@ -1311,7 +1311,7 @@ export const sf3battlecards = [
         "description": "Atk 2 fwd pnls & knock emies bck 1",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0009_card_id_drill_arm1_iml4.png"
     },
     {
         "id": "sf3-028-drill-arm-2",
@@ -1335,7 +1335,7 @@ export const sf3battlecards = [
         "description": "Atk 2 fwd pnls & knock emies bck 1",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0010_card_id_drill_arm2_iml4.png"
     },
     {
         "id": "sf3-029-drill-arm-3",
@@ -1359,7 +1359,7 @@ export const sf3battlecards = [
         "description": "Atk 2 fwd pnls & knock emies bck 1",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0011_card_id_drill_arm3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-drill-arm-x",
@@ -1407,7 +1407,7 @@ export const sf3battlecards = [
         "description": "Spin twice, hit adj pnls with wind",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0117_card_id_typhoon_dance_iml4.png"
     },
     {
         "id": "sf3-031-tornado-dance",
@@ -1431,7 +1431,7 @@ export const sf3battlecards = [
         "description": "Spin 3 times hit adj pnls with wind",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0118_card_id_tornado_dance_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-hurricane-dance",
@@ -1478,7 +1478,7 @@ export const sf3battlecards = [
         "description": "Hit far 9 normal pnls w/Meteors",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0026_card_id_white_meteor_iml4.png"
     },
     {
         "id": "sf3-033-silver-meteor",
@@ -1501,7 +1501,7 @@ export const sf3battlecards = [
         "description": "Hit far 9 normal pnls w/Meteors",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0027_card_id_silver_meteor_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-platinum-meteor",
@@ -1548,7 +1548,7 @@ export const sf3battlecards = [
         "description": "Rain Meteors down on far 9 panls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0252_card_id_illegal_zenmetsu_meteor_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-radar-missile",
@@ -1571,7 +1571,7 @@ export const sf3battlecards = [
         "description": "Missile atk. Targts Non-elm enemies",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0235_card_id_illegal_radar_missile_iml4.png"
     },
     {
         "id": "sf3-034-grand-wave-1",
@@ -1594,7 +1594,7 @@ export const sf3battlecards = [
         "description": "Piercing atk can change direc once",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0030_card_id_ground_wave1_iml4.png"
     },
     {
         "id": "sf3-035-grand-wave-2",
@@ -1617,7 +1617,7 @@ export const sf3battlecards = [
         "description": "Piercing atk can change direc once",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0031_card_id_ground_wave2_iml4.png"
     },
     {
         "id": "sf3-036-grand-wave-3",
@@ -1640,7 +1640,7 @@ export const sf3battlecards = [
         "description": "Piercing atk can change direc once",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0032_card_id_ground_wave3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-grand-wave-x",
@@ -1787,7 +1787,7 @@ export const sf3battlecards = [
         "description": "3x3-pnl frontal Hammer atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0036_card_id_hammer_weapon1_iml4.png"
     },
     {
         "id": "sf3-041-buki-2",
@@ -1811,7 +1811,7 @@ export const sf3battlecards = [
         "description": "3x3-pnl frontal Hammer atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0037_card_id_hammer_weapon2_iml4.png"
     },
     {
         "id": "sf3-042-buki-3",
@@ -1835,7 +1835,7 @@ export const sf3battlecards = [
         "description": "3x3-pnl frontal Hammer atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0038_card_id_hammer_weapon3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-buki-x",
@@ -1882,7 +1882,7 @@ export const sf3battlecards = [
         "description": "Rain down coins on emy fwd 3 rows",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0039_card_id_smile_coin1_iml4.png"
     },
     {
         "id": "sf3-044-smile-coin-2",
@@ -1905,7 +1905,7 @@ export const sf3battlecards = [
         "description": "Rain down coins on emy fwd 3 rows",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0040_card_id_smile_coin2_iml4.png"
     },
     {
         "id": "sf3-045-smile-coin-3",
@@ -1928,7 +1928,7 @@ export const sf3battlecards = [
         "description": "Rain down coins on emy fwd 3 rows",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0041_card_id_smile_coin3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-smile-coin-x",
@@ -1951,7 +1951,7 @@ export const sf3battlecards = [
         "description": "Rain down coins on emy fwd 3 rows",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0285_card_id_std_x13_iml4.png"
     },
     {
         "id": "sf3-046-big-drop-1",
@@ -1975,7 +1975,7 @@ export const sf3battlecards = [
         "description": "Drop Ku'i on field, crack adjacnt pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0042_card_id_heavy_doon1_iml4.png"
     },
     {
         "id": "sf3-047-big-drop-2",
@@ -1999,7 +1999,7 @@ export const sf3battlecards = [
         "description": "Drop Ku'i on field, crack adjacnt pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0043_card_id_heavy_doon2_iml4.png"
     },
     {
         "id": "sf3-048-big-drop-3",
@@ -2023,7 +2023,7 @@ export const sf3battlecards = [
         "description": "Drop Ku'i on field, crack adjacnt pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0044_card_id_heavy_doon3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-big-drop-x",
@@ -2071,7 +2071,7 @@ export const sf3battlecards = [
         "description": "Buzz Saw Atk turns once after thrown",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0093_card_id_giza_wheel1_iml4.png"
     },
     {
         "id": "sf3-050-buzzsaw-2",
@@ -2095,7 +2095,7 @@ export const sf3battlecards = [
         "description": "Buzz Saw Atk turns once after thrown",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0094_card_id_giza_wheel2_iml4.png"
     },
     {
         "id": "sf3-051-buzzsaw-3",
@@ -2119,7 +2119,7 @@ export const sf3battlecards = [
         "description": "Buzz Saw Atk turns once after thrown",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0095_card_id_giza_wheel3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-buzzsaw-x",
@@ -2166,7 +2166,7 @@ export const sf3battlecards = [
         "description": "Skull Arrow imoblz emies back 3 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0099_card_id_skull_arrow1_iml4.png"
     },
     {
         "id": "sf3-053-skull-arrow-2",
@@ -2189,7 +2189,7 @@ export const sf3battlecards = [
         "description": "Skull Arrow imoblz emies back 3 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0100_card_id_skull_arrow2_iml4.png"
     },
     {
         "id": "sf3-054-skull-arrow-3",
@@ -2212,7 +2212,7 @@ export const sf3battlecards = [
         "description": "Skull Arrow imoblz emies back 3 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0101_card_id_skull_arrow3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-skull-arrow-x",
@@ -2259,7 +2259,7 @@ export const sf3battlecards = [
         "description": "3-shot laser gets stronger w/holey pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0105_card_id_mu_technology1_iml4.png"
     },
     {
         "id": "sf3-056-mu-technology-2",
@@ -2283,7 +2283,7 @@ export const sf3battlecards = [
         "description": "3-shot laser gets stronger w/holey pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0106_card_id_mu_technology2_iml4.png"
     },
     {
         "id": "sf3-057-mu-technology-3",
@@ -2307,7 +2307,7 @@ export const sf3battlecards = [
         "description": "3-shot laser gets stronger w/holey pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0107_card_id_mu_technology3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-mu-technology-x",
@@ -2356,7 +2356,7 @@ export const sf3battlecards = [
         "description": "2nd fwd pnl Scythe atk. Max 3 hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0208_card_id_illegal_death_scythe1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-scythe-2",
@@ -2381,7 +2381,7 @@ export const sf3battlecards = [
         "description": "2nd fwd pnl Scythe atk. Max 3 hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0209_card_id_illegal_death_scythe2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-scythe-3",
@@ -2406,7 +2406,7 @@ export const sf3battlecards = [
         "description": "2nd fwd pnl Scythe atk. Max 3 hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0210_card_id_illegal_death_scythe3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-scythe-x",
@@ -2431,7 +2431,7 @@ export const sf3battlecards = [
         "description": "2nd fwd pnl Scythe atk. Max 3 hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0305_card_id_std_x33_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-puff-blast-1",
@@ -2454,7 +2454,7 @@ export const sf3battlecards = [
         "description": "PuffBlast hits 2nd col ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0226_card_id_illegal_kesalan_patharan1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-puff-blast-2",
@@ -2477,7 +2477,7 @@ export const sf3battlecards = [
         "description": "PuffBlast hits 2nd col ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0227_card_id_illegal_kesalan_patharan2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-puff-blast-3",
@@ -2500,7 +2500,7 @@ export const sf3battlecards = [
         "description": "PuffBlast hits 2nd col ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0228_card_id_illegal_kesalan_patharan3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-puff-blast-x",
@@ -2523,7 +2523,7 @@ export const sf3battlecards = [
         "description": "PuffBlast hits 2nd col ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0318_card_id_std_x46_iml4.png"
     },
     {
         "id": "sf3-058-time-bomb-1",
@@ -2546,7 +2546,7 @@ export const sf3battlecards = [
         "description": "Set bomb 2 pnls ahead. 3 sec timer",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0045_card_id_count_bomb1_iml4.png"
     },
     {
         "id": "sf3-059-time-bomb-2",
@@ -2569,7 +2569,7 @@ export const sf3battlecards = [
         "description": "Set bomb 2 pnls ahead. 3 sec timer",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0046_card_id_count_bomb2_iml4.png"
     },
     {
         "id": "sf3-060-time-bomb-3",
@@ -2592,7 +2592,7 @@ export const sf3battlecards = [
         "description": "Set bomb 2 pnls ahead. 3 sec timer",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0047_card_id_count_bomb3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-time-bomb-x",
@@ -2615,7 +2615,7 @@ export const sf3battlecards = [
         "description": "Set bomb 2 pnls ahead 3 sec timer",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0287_card_id_std_x15_iml4.png"
     },
     {
         "id": "sf3-061-heat-upper-1",
@@ -2639,7 +2639,7 @@ export const sf3battlecards = [
         "description": "Hit 1 emy with a Flmng uppercut",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0048_card_id_heat_upper1_iml4.png"
     },
     {
         "id": "sf3-062-heat-upper-2",
@@ -2663,7 +2663,7 @@ export const sf3battlecards = [
         "description": "Hit 1 emy with a Flmng uppercut",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0049_card_id_heat_upper2_iml4.png"
     },
     {
         "id": "sf3-063-heat-upper-3",
@@ -2687,7 +2687,7 @@ export const sf3battlecards = [
         "description": "Hit 1 emy with a Flmng uppercut",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0050_card_id_heat_upper3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-heat-upper-x",
@@ -2734,7 +2734,7 @@ export const sf3battlecards = [
         "description": "Flamethrowr. Missed pnls become holes",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0051_card_id_machine_flame1_iml4.png"
     },
     {
         "id": "sf3-065-mech-flame-2",
@@ -2757,7 +2757,7 @@ export const sf3battlecards = [
         "description": "Flamethrowr. Missed pnls become holes",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0052_card_id_machine_flame2_iml4.png"
     },
     {
         "id": "sf3-066-mech-flame-3",
@@ -2780,7 +2780,7 @@ export const sf3battlecards = [
         "description": "Flamethrowr. Missed pnls become holes",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0053_card_id_machine_flame3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-mech-flame-x",
@@ -2826,7 +2826,7 @@ export const sf3battlecards = [
         "description": "Fireball. If after guard, 3 shots",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0054_card_id_anger_fire1_iml4.png"
     },
     {
         "id": "sf3-068-mad-fire-2",
@@ -2849,7 +2849,7 @@ export const sf3battlecards = [
         "description": "Fireball. If after guard, 3 shots",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0055_card_id_anger_fire2_iml4.png"
     },
     {
         "id": "sf3-069-mad-fire-3",
@@ -2872,7 +2872,7 @@ export const sf3battlecards = [
         "description": "Fireball. If after guard, 3 shots",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0056_card_id_anger_fire3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-mad-fire-x",
@@ -2918,7 +2918,7 @@ export const sf3battlecards = [
         "description": "Atk 3 sqrs ahead with flamethrowr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0211_card_id_illegal_daba_flame1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-dance-fire-2",
@@ -2941,7 +2941,7 @@ export const sf3battlecards = [
         "description": "Flamethrowr atk in a T shape",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0212_card_id_illegal_daba_flame2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-dance-fire-3",
@@ -2964,7 +2964,7 @@ export const sf3battlecards = [
         "description": "Flamethrowr radiating 3 pnls ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0213_card_id_illegal_daba_flame3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-dance-fire-x",
@@ -3011,7 +3011,7 @@ export const sf3battlecards = [
         "description": "Lobs bomb at emy if fire atk hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0214_card_id_illegal_bobon_bomb1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-kilo-bomb-2",
@@ -3035,7 +3035,7 @@ export const sf3battlecards = [
         "description": "Lobs bomb at emy if fire atk hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0215_card_id_illegal_bobon_bomb2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-kilo-bomb-3",
@@ -3059,7 +3059,7 @@ export const sf3battlecards = [
         "description": "Lobs bomb at emy if fire atk hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0216_card_id_illegal_bobon_bomb3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-kilo-bomb-x",
@@ -3106,7 +3106,7 @@ export const sf3battlecards = [
         "description": "Send out a wave a row wide",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0057_card_id_wide_wave1_iml4.png"
     },
     {
         "id": "sf3-071-wide-wave-2",
@@ -3129,7 +3129,7 @@ export const sf3battlecards = [
         "description": "Send out a wave a row wide",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0058_card_id_wide_wave2_iml4.png"
     },
     {
         "id": "sf3-072-wide-wave-3",
@@ -3152,7 +3152,7 @@ export const sf3battlecards = [
         "description": "Send out a wave a row wide",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0059_card_id_wide_wave3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-wide-wave-x",
@@ -3290,7 +3290,7 @@ export const sf3battlecards = [
         "description": "Summons Blue Shark Atk on col ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0063_card_id_shark_cutter1_iml4.png"
     },
     {
         "id": "sf3-077-shark-attack-2",
@@ -3313,7 +3313,7 @@ export const sf3battlecards = [
         "description": "Summons Blue Shark Atk on col ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0064_card_id_shark_cutter2_iml4.png"
     },
     {
         "id": "sf3-078-shark-attack-3",
@@ -3336,7 +3336,7 @@ export const sf3battlecards = [
         "description": "Summons Blue Shark Atk on col ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0065_card_id_shark_cutter3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-shark-attack-x",
@@ -3359,7 +3359,7 @@ export const sf3battlecards = [
         "description": "Summons Blue Shark Atk on col ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0293_card_id_std_x21_iml4.png"
     },
     {
         "id": "sf3-079-ice-spin-1",
@@ -3383,7 +3383,7 @@ export const sf3battlecards = [
         "description": "Launches zig-zagging Spinguin",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0066_card_id_ice_spinning1_iml4.png"
     },
     {
         "id": "sf3-080-ice-spin-2",
@@ -3407,7 +3407,7 @@ export const sf3battlecards = [
         "description": "Launches zig-zagging Spinguin",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0067_card_id_ice_spinning2_iml4.png"
     },
     {
         "id": "sf3-081-ice-spin-3",
@@ -3431,7 +3431,7 @@ export const sf3battlecards = [
         "description": "Launches zig-zagging Spinguin",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0068_card_id_ice_spinning3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-ice-spin-x",
@@ -3455,7 +3455,7 @@ export const sf3battlecards = [
         "description": "Launches zig-zagging Spinguin",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0294_card_id_std_x22_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-snowball-1",
@@ -3478,7 +3478,7 @@ export const sf3battlecards = [
         "description": "Roll snoball that grows w/each hit",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0217_card_id_illegal_snow_ball1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-snowball-2",
@@ -3501,7 +3501,7 @@ export const sf3battlecards = [
         "description": "Roll snoball that grows w/each hit",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0218_card_id_illegal_snow_ball2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-snowball-3",
@@ -3524,7 +3524,7 @@ export const sf3battlecards = [
         "description": "Roll snoball that grows w/each hit",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0219_card_id_illegal_snow_ball3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-snowball-x",
@@ -3570,7 +3570,7 @@ export const sf3battlecards = [
         "description": "Piranha atk enemies from adj pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0220_card_id_illegal_piranha_kiss1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-piranha-kiss-2",
@@ -3593,7 +3593,7 @@ export const sf3battlecards = [
         "description": "Piranha atk enemies from adj pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0221_card_id_illegal_piranha_kiss2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-piranha-kiss-3",
@@ -3616,7 +3616,7 @@ export const sf3battlecards = [
         "description": "Piranha atk enemies from adj pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0222_card_id_illegal_piranha_kiss3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-pirahna-kiss-x",
@@ -3639,7 +3639,7 @@ export const sf3battlecards = [
         "description": "Piranha atk enemies from adj pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0316_card_id_std_x44_iml4.png"
     },
     {
         "id": "sf3-082-stealth-laser-1",
@@ -3662,7 +3662,7 @@ export const sf3battlecards = [
         "description": "3-shot laser atk to enemy w/highest HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0069_card_id_stealth_laser1_iml4.png"
     },
     {
         "id": "sf3-083-stealth-laser-2",
@@ -3685,7 +3685,7 @@ export const sf3battlecards = [
         "description": "3-shot laser atk to enemy w/highest HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0070_card_id_stealth_laser2_iml4.png"
     },
     {
         "id": "sf3-084-stealth-laser-3",
@@ -3708,7 +3708,7 @@ export const sf3battlecards = [
         "description": "3-shot laser atk to enemy w/highest HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0071_card_id_stealth_laser3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-stealth-laser-x",
@@ -3731,7 +3731,7 @@ export const sf3battlecards = [
         "description": "3-shot laser atk to enemy w/highest HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0295_card_id_std_x23_iml4.png"
     },
     {
         "id": "sf3-085-mummy-hand-1",
@@ -3754,7 +3754,7 @@ export const sf3battlecards = [
         "description": "Mummy Hand Parlyzes 3x2 panels ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0072_card_id_mummy_hand1_iml4.png"
     },
     {
         "id": "sf3-086-mummy-hand-2",
@@ -3777,7 +3777,7 @@ export const sf3battlecards = [
         "description": "Mummy Hand Parlyzes 3x2 panels ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0073_card_id_mummy_hand2_iml4.png"
     },
     {
         "id": "sf3-087-mummy-hand-3",
@@ -3800,7 +3800,7 @@ export const sf3battlecards = [
         "description": "Mummy Hand Parlyzes 3x2 panels ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0074_card_id_mummy_hand3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-mummy-hand-x",
@@ -3823,7 +3823,7 @@ export const sf3battlecards = [
         "description": "Mummy Hand Parlyzes 3x2 panels ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0296_card_id_std_x24_iml4.png"
     },
     {
         "id": "sf3-088-thunder-head-1",
@@ -3846,7 +3846,7 @@ export const sf3battlecards = [
         "description": "Rdmly rain down thunder on 3x3 area",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0075_card_id_thunder_head1_iml4.png"
     },
     {
         "id": "sf3-089-thunder-head-2",
@@ -3869,7 +3869,7 @@ export const sf3battlecards = [
         "description": "Rdmly rain down thunder on 3x3 area",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0076_card_id_thunder_head2_iml4.png"
     },
     {
         "id": "sf3-090-thunder-head-3",
@@ -3892,7 +3892,7 @@ export const sf3battlecards = [
         "description": "Rdmly rain down thunder on 3x3 area",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0077_card_id_thunder_head3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-thunder-head-x",
@@ -3915,7 +3915,7 @@ export const sf3battlecards = [
         "description": "Rdmly rain down thunder on 3x3 area",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0298_card_id_std_x26_iml4.png"
     },
     {
         "id": "sf3-091-flash-strike-1",
@@ -3938,7 +3938,7 @@ export const sf3battlecards = [
         "description": "5-shot Flash Strike atk 2 rows ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0078_card_id_flash_spire1_iml4.png"
     },
     {
         "id": "sf3-092-flash-strike-2",
@@ -3961,7 +3961,7 @@ export const sf3battlecards = [
         "description": "5-shot Flash Strike atk 2 rows ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0079_card_id_flash_spire2_iml4.png"
     },
     {
         "id": "sf3-093-flash-strike-3",
@@ -3984,7 +3984,7 @@ export const sf3battlecards = [
         "description": "5-shot Flash Strike atk 2 rows ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0080_card_id_flash_spire3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-flash-strike-x",
@@ -4030,7 +4030,7 @@ export const sf3battlecards = [
         "description": "ThndrBalls come up from holes. 9 max",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0258_card_id_thunder_of_earth1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-earth-thunder-2",
@@ -4053,7 +4053,7 @@ export const sf3battlecards = [
         "description": "ThndrBalls come up from holes. 9 max",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0259_card_id_thunder_of_earth2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-earth-thunder-3",
@@ -4076,7 +4076,7 @@ export const sf3battlecards = [
         "description": "ThndrBalls come up from holes. 9 max",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0260_card_id_thunder_of_earth3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-earth-thunder-x",
@@ -4191,7 +4191,7 @@ export const sf3battlecards = [
         "description": "Arachnid atk from above confuses emy",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0299_card_id_std_x27_iml4.png"
     },
     {
         "id": "sf3-097-shuriken-1",
@@ -4215,7 +4215,7 @@ export const sf3battlecards = [
         "description": "Shuriken whiz around battlefield",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0084_card_id_shurishuriken1_iml4.png"
     },
     {
         "id": "sf3-098-shuriken-2",
@@ -4239,7 +4239,7 @@ export const sf3battlecards = [
         "description": "Shuriken whiz around battlefield",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0085_card_id_shurishuriken2_iml4.png"
     },
     {
         "id": "sf3-099-shuriken-3",
@@ -4263,7 +4263,7 @@ export const sf3battlecards = [
         "description": "Shuriken whiz around battlefield",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0086_card_id_shurishuriken3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-shuriken-x",
@@ -4309,7 +4309,7 @@ export const sf3battlecards = [
         "description": "Pollen Shot emies on fwd grass pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0087_card_id_powder_shoot1_iml4.png"
     },
     {
         "id": "sf3-101-pollen-shot-2",
@@ -4332,7 +4332,7 @@ export const sf3battlecards = [
         "description": "Pollen Shot emies on fwd grass pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0088_card_id_powder_shoot2_iml4.png"
     },
     {
         "id": "sf3-102-pollen-shot-3",
@@ -4355,7 +4355,7 @@ export const sf3battlecards = [
         "description": "Pollen Shot emies on fwd grass pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0089_card_id_powder_shoot3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-pollen-shot-x",
@@ -4401,7 +4401,7 @@ export const sf3battlecards = [
         "description": "+Control Pad up & explode Acorn Bomb",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0090_card_id_rolling_nuts1_iml4.png"
     },
     {
         "id": "sf3-104-acorn-bomb-2",
@@ -4424,7 +4424,7 @@ export const sf3battlecards = [
         "description": "+Control Pad up & explode Acorn Bomb",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0091_card_id_rolling_nuts2_iml4.png"
     },
     {
         "id": "sf3-105-acorn-bomb-3",
@@ -4447,7 +4447,7 @@ export const sf3battlecards = [
         "description": "+Control Pad up & explode Acorn Bomb",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0092_card_id_rolling_nuts3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-acorn-bomb-x",
@@ -4494,7 +4494,7 @@ export const sf3battlecards = [
         "description": "Max 6-hit wind atk 2 pnls ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0223_card_id_illegal_kogarashi1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-squall-2",
@@ -4518,7 +4518,7 @@ export const sf3battlecards = [
         "description": "Max 6-hit wind atk 2 pnls ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0224_card_id_illegal_kogarashi2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-squall-3",
@@ -4542,7 +4542,7 @@ export const sf3battlecards = [
         "description": "Max 6-hit wind atk 2 pnls ahead",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0225_card_id_illegal_kogarashi3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-squall-x",
@@ -4589,7 +4589,7 @@ export const sf3battlecards = [
         "description": "9-shot atk across 3 columns",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0246_card_id_illegal_vulcan_seed1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-vulcan-seed-2",
@@ -4612,7 +4612,7 @@ export const sf3battlecards = [
         "description": "9-shot atk across 3 columns",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0247_card_id_illegal_vulcan_seed2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-vulcan-seed-3",
@@ -4635,7 +4635,7 @@ export const sf3battlecards = [
         "description": "9-shot atk across 3 columns",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0248_card_id_illegal_vulcan_seed3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-vulcan-seed-x",
@@ -4658,7 +4658,7 @@ export const sf3battlecards = [
         "description": "9-shot atk across 3 columns",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0319_card_id_std_x47_iml4.png"
     },
     {
         "id": "sf3-106-beast-slap-1",
@@ -4682,7 +4682,7 @@ export const sf3battlecards = [
         "description": "Mega slashes fwd 3x2 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0012_card_id_beast_swing1_iml4.png"
     },
     {
         "id": "sf3-107-beast-slap-2",
@@ -4706,7 +4706,7 @@ export const sf3battlecards = [
         "description": "Mega slashes fwd 3x2 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0013_card_id_beast_swing2_iml4.png"
     },
     {
         "id": "sf3-108-beast-slap-3",
@@ -4730,7 +4730,7 @@ export const sf3battlecards = [
         "description": "Mega slashes fwd 3x2 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0014_card_id_beast_swing3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-beast-slap-x",
@@ -4778,7 +4778,7 @@ export const sf3battlecards = [
         "description": "Noise Wizard atks far row from outside",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0108_card_id_noised_wizard1_iml4.png"
     },
     {
         "id": "sf3-110-noised-wizard-2",
@@ -4802,7 +4802,7 @@ export const sf3battlecards = [
         "description": "Noise Wizard atks far row from outside",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0109_card_id_noised_wizard2_iml4.png"
     },
     {
         "id": "sf3-111-noised-wizard-3",
@@ -4826,7 +4826,7 @@ export const sf3battlecards = [
         "description": "Noise Wizard atks far row from outside",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0110_card_id_noised_wizard3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-noised-wizard-x",
@@ -4873,7 +4873,7 @@ export const sf3battlecards = [
         "description": "Mal Wizard prlyz whip atk 2 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0111_card_id_heel_wizard1_iml4.png"
     },
     {
         "id": "sf3-113-mal-wizard-2",
@@ -4896,7 +4896,7 @@ export const sf3battlecards = [
         "description": "Mal Wizard prlyz whip atk 2 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0112_card_id_heel_wizard2_iml4.png"
     },
     {
         "id": "sf3-114-mal-wizard-3",
@@ -4919,7 +4919,7 @@ export const sf3battlecards = [
         "description": "Mal Wizard prlyz whip atk 2 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0113_card_id_heel_wizard3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-mal-wizard-x",
@@ -4966,7 +4966,7 @@ export const sf3battlecards = [
         "description": "SpinBlade cuts diag across field",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0264_card_id_dancing_blade1_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-spin-blade-2",
@@ -4990,7 +4990,7 @@ export const sf3battlecards = [
         "description": "SpinBlade cuts diag across field",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0265_card_id_dancing_blade2_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-spin-blade-3",
@@ -5014,7 +5014,7 @@ export const sf3battlecards = [
         "description": "SpinBlade cuts diag across field",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0266_card_id_dancing_blade3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-spin-blade-x",
@@ -5054,7 +5054,7 @@ export const sf3battlecards = [
         "description": "Emy w/less than 100 HP are deleted",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0114_card_id_black_hole1_iml4.png"
     },
     {
         "id": "sf3-116-black-hole-2",
@@ -5070,7 +5070,7 @@ export const sf3battlecards = [
         "description": "Emy w/less than 130 HP are deleted",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0115_card_id_black_hole2_iml4.png"
     },
     {
         "id": "sf3-117-black-hole-3",
@@ -5086,7 +5086,7 @@ export const sf3battlecards = [
         "description": "Emy w/less than 160 HP are deleted",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0116_card_id_black_hole3_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-black-hole-x",
@@ -5102,7 +5102,7 @@ export const sf3battlecards = [
         "description": "Emy w/less than 190 HP are deleted",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0310_card_id_std_x38_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-jungle-storm",
@@ -5126,7 +5126,7 @@ export const sf3battlecards = [
         "description": "Atk using grass pnls on field",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0229_card_id_illegal_jungle_storm_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-snow-storm",
@@ -5150,7 +5150,7 @@ export const sf3battlecards = [
         "description": "Atk using ice pnls on field",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0230_card_id_illegal_snow_storm_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-poison-storm",
@@ -5174,7 +5174,7 @@ export const sf3battlecards = [
         "description": "Atk using poison pnls on field",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0231_card_id_illegal_poison_storm_iml4.png"
     },
     {
         "id": "sf3-118-double-stone",
@@ -5190,7 +5190,7 @@ export const sf3battlecards = [
         "description": "Cmd settings let you put 2 stones",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0119_card_id_double_stone_iml4.png"
     },
     {
         "id": "sf3-119-bombalizer",
@@ -5213,7 +5213,7 @@ export const sf3battlecards = [
         "description": "Blow up all obstcls, dmg adj pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0120_card_id_bomb_rizer_iml4.png"
     },
     {
         "id": "sf3-120-divide-line",
@@ -5229,7 +5229,7 @@ export const sf3battlecards = [
         "description": "Make row in front of you holes 3 trns",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0121_card_id_divide_line_iml4.png"
     },
     {
         "id": "sf3-121-double-eater",
@@ -5245,7 +5245,7 @@ export const sf3battlecards = [
         "description": "For 3 turns, cut 2 rows from field",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0029_card_id_double_eater_iml4.png"
     },
     {
         "id": "sf3-122-panel-format",
@@ -5261,7 +5261,7 @@ export const sf3battlecards = [
         "description": "Make all pnls on field normal",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0122_card_id_panel_format_iml4.png"
     },
     {
         "id": "sf3-123-panic-cloud",
@@ -5277,7 +5277,7 @@ export const sf3battlecards = [
         "description": "Confuses emies on normal pnls 8 secs",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0018_card_id_panic_cloud_iml4.png"
     },
     {
         "id": "sf3-124-recover-10",
@@ -5293,7 +5293,7 @@ export const sf3battlecards = [
         "description": "Recover 10 HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0126_card_id_recovery_10_iml4.png"
     },
     {
         "id": "sf3-125-recover-30",
@@ -5309,7 +5309,7 @@ export const sf3battlecards = [
         "description": "Recover 30 HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0127_card_id_recovery_30_iml4.png"
     },
     {
         "id": "sf3-126-recover-50",
@@ -5325,7 +5325,7 @@ export const sf3battlecards = [
         "description": "Recover 50 HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0128_card_id_recovery_50_iml4.png"
     },
     {
         "id": "sf3-127-recover-80",
@@ -5341,7 +5341,7 @@ export const sf3battlecards = [
         "description": "Recover 80 HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0129_card_id_recovery_80_iml4.png"
     },
     {
         "id": "sf3-128-recover-120",
@@ -5357,7 +5357,7 @@ export const sf3battlecards = [
         "description": "Recover 120 HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0130_card_id_recovery_120_iml4.png"
     },
     {
         "id": "sf3-129-recover-150",
@@ -5373,7 +5373,7 @@ export const sf3battlecards = [
         "description": "Recover 150 HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0131_card_id_recovery_150_iml4.png"
     },
     {
         "id": "sf3-130-recover-200",
@@ -5389,7 +5389,7 @@ export const sf3battlecards = [
         "description": "Recover 200 HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0132_card_id_recovery_200_iml4.png"
     },
     {
         "id": "sf3-131-recover-300",
@@ -5405,7 +5405,7 @@ export const sf3battlecards = [
         "description": "Recover 300 HP",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0133_card_id_recovery_300_iml4.png"
     },
     {
         "id": "sf3-132-barrier",
@@ -5421,7 +5421,7 @@ export const sf3battlecards = [
         "description": "Barrier blocks most atks 1 time",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0134_card_id_barrier_iml4.png"
     },
     {
         "id": "sf3-133-super-barrier",
@@ -5437,7 +5437,7 @@ export const sf3battlecards = [
         "description": "Barrier blocks most atks 5 times",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0135_card_id_super_barrier_iml4.png"
     },
     {
         "id": "sf3-134-aura",
@@ -5453,7 +5453,7 @@ export const sf3battlecards = [
         "description": "Absorbs all dmg less than 100",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0136_card_id_aura_iml4.png"
     },
     {
         "id": "sf3-135-invisible",
@@ -5469,7 +5469,7 @@ export const sf3battlecards = [
         "description": "Temp invis. Most atks ineffective",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0137_card_id_invisible_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-mega-boost",
@@ -5485,7 +5485,7 @@ export const sf3battlecards = [
         "description": "Take no dmg during a Mega atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0271_card_id_warlock_boost_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-quick-gauge",
@@ -5501,7 +5501,7 @@ export const sf3battlecards = [
         "description": "Speeds up Custom Gauge",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0267_card_id_quick_gauge_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-normal-gauge",
@@ -5517,7 +5517,7 @@ export const sf3battlecards = [
         "description": "Restore norml Custom Gauge speed",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0268_card_id_normal_gauge_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-slow-gauge",
@@ -5533,7 +5533,7 @@ export const sf3battlecards = [
         "description": "Slows down Custom Gauge",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0269_card_id_heavy_gauge_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-warrior-soul",
@@ -5549,7 +5549,7 @@ export const sf3battlecards = [
         "description": "MaxBstr & SprArmr. But also, HP Bug",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0250_card_id_illegal_warrior_blood_iml4.png"
     },
     {
         "id": "sf3-136-whistle",
@@ -5567,7 +5567,7 @@ export const sf3battlecards = [
         "description": "Call all enemies to you",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0138_card_id_whistle_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-card-revive",
@@ -5583,7 +5583,7 @@ export const sf3battlecards = [
         "description": "w/holey pnl copy last summon atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0270_card_id_undead_reverse_iml4.png"
     },
     {
         "id": "sf3-137-mega-crusher",
@@ -5599,7 +5599,7 @@ export const sf3battlecards = [
         "description": "Make opp M cards unusable Vs only",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0124_card_id_mega_clasher_iml4.png"
     },
     {
         "id": "sf3-138-spirit-fury",
@@ -5615,7 +5615,7 @@ export const sf3battlecards = [
         "description": "VS only. Use Elmnt S card to unleash",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0139_card_id_seirei_iml4.png"
     },
     {
         "id": "sf3-139-anti-sword",
@@ -5631,7 +5631,7 @@ export const sf3battlecards = [
         "description": "VS only. Use swrd crd trap sprngs",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0140_card_id_shiraha_iml4.png"
     },
     {
         "id": "sf3-140-poison-apple",
@@ -5647,7 +5647,7 @@ export const sf3battlecards = [
         "description": "VS only. Use rcvr crd trap sprngs",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0141_card_id_dokuringo_iml4.png"
     },
     {
         "id": "sf3-141-doublecross",
@@ -5663,7 +5663,7 @@ export const sf3battlecards = [
         "description": "VS only. M Summon crd trap sprngs",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0142_card_id_uragiri_iml4.png"
     },
     {
         "id": "sf3-142-gigamine",
@@ -5679,7 +5679,7 @@ export const sf3battlecards = [
         "description": "VS only. Use Giga crd trap sprngs",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0143_card_id_gigamine_iml4.png"
     },
     {
         "id": "sf3-143-grass-stage",
@@ -5695,7 +5695,7 @@ export const sf3battlecards = [
         "description": "Farthest 3x3 pnls change into grass",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0144_card_id_kusamura_stage_iml4.png"
     },
     {
         "id": "sf3-144-ice-stage",
@@ -5711,7 +5711,7 @@ export const sf3battlecards = [
         "description": "Farthest 3x3 pnls change into ice",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0145_card_id_ice_stage_iml4.png"
     },
     {
         "id": "sf3-145-paralyze-stage",
@@ -5727,7 +5727,7 @@ export const sf3battlecards = [
         "description": "Paralyze atk on far 3x3 panels",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0146_card_id_paralyze_stage_iml4.png"
     },
     {
         "id": "sf3-146-holy-panel",
@@ -5743,7 +5743,7 @@ export const sf3battlecards = [
         "description": "Current pnl becomes 1/2 dmg HolyPnl",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0147_card_id_holy_panel_iml4.png"
     },
     {
         "id": "sf3-147-attack-panel",
@@ -5759,7 +5759,7 @@ export const sf3battlecards = [
         "description": "Use crd when on pnl Atk pwr +10",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0148_card_id_attack_panel_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-all-poison",
@@ -5775,7 +5775,7 @@ export const sf3battlecards = [
         "description": "Turn entire field into poisn panels",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0253_card_id_illegal_all_poison_iml4.png"
     },
     {
         "id": "sf3-148-gravity-plus",
@@ -5791,7 +5791,7 @@ export const sf3battlecards = [
         "description": "If previous is atk card, add imoblz",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0125_card_id_gravity_plus_iml4.png"
     },
     {
         "id": "sf3-149-paralyze-plus",
@@ -5807,7 +5807,7 @@ export const sf3battlecards = [
         "description": "If previous is atk card, add paralyz",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0149_card_id_palsy_plus_iml4.png"
     },
     {
         "id": "sf3-150-attack-10",
@@ -5823,7 +5823,7 @@ export const sf3battlecards = [
         "description": "If previous is atk card, +10 to atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0150_card_id_attack_plus_10_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-fire-30",
@@ -5839,7 +5839,7 @@ export const sf3battlecards = [
         "description": "+30 atk pwr to Fire elm cards",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0254_card_id_illegal_fire_plus_30_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-aqua-30",
@@ -5855,7 +5855,7 @@ export const sf3battlecards = [
         "description": "+30 atk pwr to Aqua elm cards",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0255_card_id_illegal_aqua_plus_30_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-elec-30",
@@ -5871,7 +5871,7 @@ export const sf3battlecards = [
         "description": "+30 atk pwr to Elec elm cards",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0256_card_id_illegal_elec_plus_30_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-wood-30",
@@ -5887,7 +5887,7 @@ export const sf3battlecards = [
         "description": "+30 atk pwr to Wood elm cards",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0257_card_id_illegal_wood_plus_30_iml4.png"
     },
     {
         "id": "sf3-001-spade-magnes",
@@ -5904,7 +5904,7 @@ export const sf3battlecards = [
         "description": "SpadeMgnes slices twice max 2 hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0151_card_id_spade_magnets_iml4.png"
     },
     {
         "id": "sf3-002-spade-magnes-v2",
@@ -5921,7 +5921,7 @@ export const sf3battlecards = [
         "description": "SpadeMgnes slices twice max 2 hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0152_card_id_spade_magnets_ex_iml4.png"
     },
     {
         "id": "sf3-003-spade-magnes-v3",
@@ -5938,7 +5938,7 @@ export const sf3battlecards = [
         "description": "SpadeMgnes slices twice max 2 hits",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0153_card_id_spade_magnets_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-spade-magnes-x",
@@ -5972,7 +5972,7 @@ export const sf3battlecards = [
         "description": "Diamond Dust diagonal 3-hit atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0154_card_id_dia_icebahn_iml4.png"
     },
     {
         "id": "sf3-005-diamond-ice-v2",
@@ -5989,7 +5989,7 @@ export const sf3battlecards = [
         "description": "Diamond Dust diagonal 3-hit atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0155_card_id_dia_icebahn_ex_iml4.png"
     },
     {
         "id": "sf3-006-diamond-ice-v3",
@@ -6006,7 +6006,7 @@ export const sf3battlecards = [
         "description": "Diamond Dust diagonal 3-hit atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0156_card_id_dia_icebahn_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-diamond-ice-x",
@@ -6040,7 +6040,7 @@ export const sf3battlecards = [
         "description": "SwingStrmAtk that pwrs up on grass pnl",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0157_card_id_club_strong_iml4.png"
     },
     {
         "id": "sf3-008-club-strong-v2",
@@ -6057,7 +6057,7 @@ export const sf3battlecards = [
         "description": "SwingStrmAtk that pwrs up on grass pnl",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0158_card_id_club_strong_ex_iml4.png"
     },
     {
         "id": "sf3-009-club-strong-v3",
@@ -6074,7 +6074,7 @@ export const sf3battlecards = [
         "description": "SwingStrmAtk that pwrs up on grass pnl",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0159_card_id_club_strong_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-club-strong-x",
@@ -6091,7 +6091,7 @@ export const sf3battlecards = [
         "description": "SwingStrmAtk that pwrs up on grass pnl",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0362_card_id_illegal_club_strong_x_iml4.png"
     },
     {
         "id": "sf3-010-queen-virgo",
@@ -6108,7 +6108,7 @@ export const sf3battlecards = [
         "description": "HydroDrgnAtk hits more w/ proximity",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0160_card_id_queen_virgo_iml4.png"
     },
     {
         "id": "sf3-011-queen-virgo-v2",
@@ -6125,7 +6125,7 @@ export const sf3battlecards = [
         "description": "HydroDrgnAtk hits more w/ proximity",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0161_card_id_queen_virgo_ex_iml4.png"
     },
     {
         "id": "sf3-012-queen-virgo-v3",
@@ -6142,7 +6142,7 @@ export const sf3battlecards = [
         "description": "HydroDrgnAtk hits more w/ proximity",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0162_card_id_queen_virgo_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-queen-virgo-x",
@@ -6159,7 +6159,7 @@ export const sf3battlecards = [
         "description": "HydroDrgnAtk hits more w/ proximity",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0363_card_id_illegal_queen_virgo_x_iml4.png"
     },
     {
         "id": "sf3-013-jack-corvus",
@@ -6175,7 +6175,7 @@ export const sf3battlecards = [
         "description": "2-pnl claw atk on 3 far side cols",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0163_card_id_jack_corvus_iml4.png"
     },
     {
         "id": "sf3-014-jack-corvus-v2",
@@ -6191,7 +6191,7 @@ export const sf3battlecards = [
         "description": "2-pnl claw atk on 3 far side cols",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0164_card_id_jack_corvus_ex_iml4.png"
     },
     {
         "id": "sf3-015-jack-corvus-v3",
@@ -6207,7 +6207,7 @@ export const sf3battlecards = [
         "description": "2-pnl claw atk on 3 far side cols",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0165_card_id_jack_corvus_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-jack-corvus-x",
@@ -6223,7 +6223,7 @@ export const sf3battlecards = [
         "description": "2-pnl claw atk on 3 far side cols",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0364_card_id_illegal_jack_corvus_x_iml4.png"
     },
     {
         "id": "sf3-016-dread-joker",
@@ -6240,7 +6240,7 @@ export const sf3battlecards = [
         "description": "Atk w/ total of 3 gigaton buildings",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0166_card_id_grave_joker_iml4.png"
     },
     {
         "id": "sf3-017-dread-joker-v2",
@@ -6257,7 +6257,7 @@ export const sf3battlecards = [
         "description": "Atk w/ total of 3 gigaton buildings",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0167_card_id_grave_joker_ex_iml4.png"
     },
     {
         "id": "sf3-018-dread-joker-v3",
@@ -6274,7 +6274,7 @@ export const sf3battlecards = [
         "description": "Atk w/ total of 3 gigaton buildings",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0168_card_id_grave_joker_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-dread-joker-x",
@@ -6291,7 +6291,7 @@ export const sf3battlecards = [
         "description": "Atk w/ total of 3 gigaton buildings",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0365_card_id_illegal_grave_joker_x_iml4.png"
     },
     {
         "id": "sf3-019-acid-ace",
@@ -6309,7 +6309,7 @@ export const sf3battlecards = [
         "description": "Slash 1 emy w/ lock-on sword",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0169_card_id_acid_ace_iml4.png"
     },
     {
         "id": "sf3-020-acid-ace-v2",
@@ -6327,7 +6327,7 @@ export const sf3battlecards = [
         "description": "Slash 1 emy w/ lock-on sword",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0170_card_id_acid_ace_ex_iml4.png"
     },
     {
         "id": "sf3-021-acid-ace-v3",
@@ -6345,7 +6345,7 @@ export const sf3battlecards = [
         "description": "Slash 1 emy w/ lock-on sword",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0171_card_id_acid_ace_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-acid-ace-x",
@@ -6363,7 +6363,7 @@ export const sf3battlecards = [
         "description": "Slash 1 emy w/ lock-on sword",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0366_card_id_illegal_acid_ace_x_iml4.png"
     },
     {
         "id": "sf3-022-taurus-fire",
@@ -6379,7 +6379,7 @@ export const sf3battlecards = [
         "description": "TaurusFire covers field in flames",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0172_card_id_ox_fire_iml4.png"
     },
     {
         "id": "sf3-023-taurus-fire-v2",
@@ -6395,7 +6395,7 @@ export const sf3battlecards = [
         "description": "TaurusFire covers field in flames",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0173_card_id_ox_fire_ex_iml4.png"
     },
     {
         "id": "sf3-024-taurus-fire-v3",
@@ -6411,7 +6411,7 @@ export const sf3battlecards = [
         "description": "TaurusFire covers field in flames",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0174_card_id_ox_fire_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-taurus-fire-x",
@@ -6427,7 +6427,7 @@ export const sf3battlecards = [
         "description": "TaurusFire covers field in flames",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0367_card_id_illegal_ox_fire_x_iml4.png"
     },
     {
         "id": "sf3-025-cygnus-wing",
@@ -6445,7 +6445,7 @@ export const sf3battlecards = [
         "description": "CygnusWing dances round field edge",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0175_card_id_cygnus_wing_iml4.png"
     },
     {
         "id": "sf3-026-cygnus-wing-v2",
@@ -6463,7 +6463,7 @@ export const sf3battlecards = [
         "description": "CygnusWing dances round field edge",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0176_card_id_cygnus_wing_ex_iml4.png"
     },
     {
         "id": "sf3-027-cygnus-wing-v3",
@@ -6481,7 +6481,7 @@ export const sf3battlecards = [
         "description": "CygnusWing dances round field edge",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0177_card_id_cygnus_wing_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-cygnus-wing-x",
@@ -6499,7 +6499,7 @@ export const sf3battlecards = [
         "description": "CygnusWing dances round field edge",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0368_card_id_illegal_cygnus_wing_x_iml4.png"
     },
     {
         "id": "sf3-028-wolf-woods",
@@ -6516,7 +6516,7 @@ export const sf3battlecards = [
         "description": "Dart to emy, slice row, then upper",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0178_card_id_wolf_forest_iml4.png"
     },
     {
         "id": "sf3-029-wolf-woods-v2",
@@ -6533,7 +6533,7 @@ export const sf3battlecards = [
         "description": "Dart to emy, slice row, then upper",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0179_card_id_wolf_forest_ex_iml4.png"
     },
     {
         "id": "sf3-030-wolf-woods-v3",
@@ -6550,7 +6550,7 @@ export const sf3battlecards = [
         "description": "Dart to emy, slice row, then upper",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0180_card_id_wolf_forest_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-wolf-woods-x",
@@ -6567,7 +6567,7 @@ export const sf3battlecards = [
         "description": "Dart to emy, slice row, then upper",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0369_card_id_illegal_wolf_forest_x_iml4.png"
     },
     {
         "id": "sf3-031-dark-phantom",
@@ -6583,7 +6583,7 @@ export const sf3battlecards = [
         "description": "Phantom atks fwd pnl with Phantom Claw",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0181_card_id_phantom_black_iml4.png"
     },
     {
         "id": "sf3-032-dark-phantom-v2",
@@ -6599,7 +6599,7 @@ export const sf3battlecards = [
         "description": "Phantom atks fwd pnl with Phantom Claw",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0182_card_id_phantom_black_ex_iml4.png"
     },
     {
         "id": "sf3-033-dark-phantom-v3",
@@ -6615,7 +6615,7 @@ export const sf3battlecards = [
         "description": "Phantom atks fwd pnl with Phantom Claw",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0183_card_id_phantom_black_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-dark-phantom-x",
@@ -6631,7 +6631,7 @@ export const sf3battlecards = [
         "description": "Phantom atks fwd pnl with Phantom Claw",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0370_card_id_illegal_phantom_black_x_iml4.png"
     },
     {
         "id": "sf3-034-rogue",
@@ -6648,7 +6648,7 @@ export const sf3battlecards = [
         "description": "4-shot consecutive fwd attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0184_card_id_burai_iml4.png"
     },
     {
         "id": "sf3-035-rogue-v2",
@@ -6665,7 +6665,7 @@ export const sf3battlecards = [
         "description": "4-shot consecutive fwd attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0185_card_id_burai_ex_iml4.png"
     },
     {
         "id": "sf3-036-rogue-v3",
@@ -6682,7 +6682,7 @@ export const sf3battlecards = [
         "description": "4-shot consecutive fwd attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0186_card_id_burai_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-rogue-x",
@@ -6699,7 +6699,7 @@ export const sf3battlecards = [
         "description": "4-shot consecutive fwd attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0371_card_id_illegal_burai_x_iml4.png"
     },
     {
         "id": "sf3-037-moon-destroyer",
@@ -6716,7 +6716,7 @@ export const sf3battlecards = [
         "description": "Lft 3-col or right 1-col cutter atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0187_card_id_moon_disaster_iml4.png"
     },
     {
         "id": "sf3-038-moon-destroyer-v2",
@@ -6733,7 +6733,7 @@ export const sf3battlecards = [
         "description": "Lft 3-col or right 1-col cutter atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0188_card_id_moon_disaster_ex_iml4.png"
     },
     {
         "id": "sf3-039-moon-destroyer-v3",
@@ -6750,7 +6750,7 @@ export const sf3battlecards = [
         "description": "Lft 3-col or right 1-col cutter atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0189_card_id_moon_disaster_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-moon-destroyer-x",
@@ -6767,7 +6767,7 @@ export const sf3battlecards = [
         "description": "Lft 3-col or right 1-col cutter atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0372_card_id_illegal_moon_disaster_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-libra-scales",
@@ -6783,7 +6783,7 @@ export const sf3battlecards = [
         "description": "2-hit Fire, Aqua on last and 1st row",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0345_card_id_illegal_libra_balance_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-libra-scales-v2",
@@ -6799,7 +6799,7 @@ export const sf3battlecards = [
         "description": "2-hit Fire, Aqua on last and 1st row",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0346_card_id_illegal_libra_balance_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-libra-scales-v3",
@@ -6815,7 +6815,7 @@ export const sf3battlecards = [
         "description": "2-hit Fire, Aqua on last and 1st row",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0347_card_id_illegal_libra_balance_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-libra-scales-x",
@@ -6831,7 +6831,7 @@ export const sf3battlecards = [
         "description": "2-hit Fire, Aqua on last and 1st row",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0382_card_id_illegal_libra_balance_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-queen-ophiuca",
@@ -6848,7 +6848,7 @@ export const sf3battlecards = [
         "description": "2 columns atk. Left 2 if frm cntr.",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0333_card_id_illegal_ophiuchus_queen_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-queen-ophiuca-v2",
@@ -6865,7 +6865,7 @@ export const sf3battlecards = [
         "description": "2 columns atk. Left 2 if frm cntr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0334_card_id_illegal_ophiuchus_queen_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-queen-ophiuca-v3",
@@ -6882,7 +6882,7 @@ export const sf3battlecards = [
         "description": "2 columns atk. Left 2 if frm cntr.",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0335_card_id_illegal_ophiuchus_queen_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-queen-ophiuca-x",
@@ -6899,7 +6899,7 @@ export const sf3battlecards = [
         "description": "2 columns atk. Left 2 if frm cntr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0378_card_id_illegal_ophiuchus_queen_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-gemini-spark",
@@ -6917,7 +6917,7 @@ export const sf3battlecards = [
         "description": "GeminiSpark tagteam pnch and slice",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0336_card_id_illegal_gemini_spark_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-gemini-spark-v2",
@@ -6935,7 +6935,7 @@ export const sf3battlecards = [
         "description": "GeminiSpark tagteam pnch and slice",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0337_card_id_illegal_gemini_spark_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-gemini-spark-v3",
@@ -6953,7 +6953,7 @@ export const sf3battlecards = [
         "description": "GeminiSpark tagteam pnch and slice",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0338_card_id_illegal_gemini_spark_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-gemini-spark-x",
@@ -6971,7 +6971,7 @@ export const sf3battlecards = [
         "description": "GeminiSpark tagteam pnch and slice",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0379_card_id_illegal_gemini_spark_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-cancer-bubble",
@@ -6987,7 +6987,7 @@ export const sf3battlecards = [
         "description": "From nearest enemy, 3x2 tidal wave",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0339_card_id_illegal_cancer_bubble_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-cancer-bubble-v2",
@@ -7003,7 +7003,7 @@ export const sf3battlecards = [
         "description": "From nearest enemy, 3x2 tidal wave",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0340_card_id_illegal_cancer_bubble_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-cancer-bubble-v3",
@@ -7019,7 +7019,7 @@ export const sf3battlecards = [
         "description": "From nearest enemy, 3x2 tidal wave",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0341_card_id_illegal_cancer_bubble_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-cancer-bubble-x",
@@ -7035,7 +7035,7 @@ export const sf3battlecards = [
         "description": "From nearest enemy, 3x2 tidal wave",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0380_card_id_illegal_cancer_bubble_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-crown-thunder",
@@ -7051,7 +7051,7 @@ export const sf3battlecards = [
         "description": "2nd to last row center, X lightng atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0348_card_id_illegal_crown_thunder_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-crown-thunder-v2",
@@ -7067,7 +7067,7 @@ export const sf3battlecards = [
         "description": "2nd to last row center, X lightng atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0349_card_id_illegal_crown_thunder_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-crown-thunder-v3",
@@ -7083,7 +7083,7 @@ export const sf3battlecards = [
         "description": "2nd to last row center, X lightng atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0350_card_id_illegal_crown_thunder_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-crown-thunder-x",
@@ -7099,7 +7099,7 @@ export const sf3battlecards = [
         "description": "2nd to last row center, X lightng atk",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0383_card_id_illegal_crown_thunder_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-yeti-blizzard",
@@ -7115,7 +7115,7 @@ export const sf3battlecards = [
         "description": "Atk 3x3 pnls w/ 6 snoball rounds",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0324_card_id_illegal_yeti_blizzard_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-yeti-blizzard-v2",
@@ -7131,7 +7131,7 @@ export const sf3battlecards = [
         "description": "Atk 3x3 pnls w/ 6 snoball rounds",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0325_card_id_illegal_yeti_blizzard_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-yeti-blizzard-v3",
@@ -7147,7 +7147,7 @@ export const sf3battlecards = [
         "description": "Atk 3x3 pnls w/ 6 snoball rounds",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0326_card_id_illegal_yeti_blizzard_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-yeti-blizzard-x",
@@ -7163,7 +7163,7 @@ export const sf3battlecards = [
         "description": "Atk 3x3 pnls w/ 6 snoball rounds",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0375_card_id_illegal_yeti_blizzard_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-plesio-surf",
@@ -7179,7 +7179,7 @@ export const sf3battlecards = [
         "description": "Hit nearest emy's row w/Aqua Fang",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0327_card_id_illegal_brachio_wave_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-plesio-surf-v2",
@@ -7195,7 +7195,7 @@ export const sf3battlecards = [
         "description": "Hit nearest emy's row w/Aqua Fang",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0328_card_id_illegal_brachio_wave_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-plesio-surf-v3",
@@ -7211,7 +7211,7 @@ export const sf3battlecards = [
         "description": "Hit nearest emy's row w/Aqua Fang",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0329_card_id_illegal_brachio_wave_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-plesio-surf-x",
@@ -7227,7 +7227,7 @@ export const sf3battlecards = [
         "description": "Hit nearest emy's row w/Aqua Fang",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0376_card_id_illegal_brachio_wave_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-terra-condor",
@@ -7243,7 +7243,7 @@ export const sf3battlecards = [
         "description": "3-shot misle atk straight down 3 rows",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0330_card_id_illegal_condor_geograph_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-terra-condor-v2",
@@ -7259,7 +7259,7 @@ export const sf3battlecards = [
         "description": "3-shot misle atk straight down 3 rows",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0331_card_id_illegal_condor_geograph_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-terra-condor-v3",
@@ -7275,7 +7275,7 @@ export const sf3battlecards = [
         "description": "3-shot misle atk straight down 3 rows",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0332_card_id_illegal_condor_geograph_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-terra-condor-x",
@@ -7291,7 +7291,7 @@ export const sf3battlecards = [
         "description": "3-shot misle atk straight down 3 rows",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0377_card_id_illegal_condor_geograph_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-general-auriga",
@@ -7308,7 +7308,7 @@ export const sf3battlecards = [
         "description": "Unblockable 3-column rush attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0342_card_id_illegal_olga_general_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-general-auriga-v2",
@@ -7325,7 +7325,7 @@ export const sf3battlecards = [
         "description": "Unblockable 3-column rush attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0343_card_id_illegal_olga_general_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-general-auriga-v3",
@@ -7342,7 +7342,7 @@ export const sf3battlecards = [
         "description": "Unblockable 3-column rush attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0344_card_id_illegal_olga_general_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-general-auriga-x",
@@ -7359,7 +7359,7 @@ export const sf3battlecards = [
         "description": "Unblockable 3-column rush attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0381_card_id_illegal_olga_general_x_iml4.png"
     },
     {
         "id": "sf3-040-apollo-flame",
@@ -7375,7 +7375,7 @@ export const sf3battlecards = [
         "description": "Solar Flare atk on fwd 3x3 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0190_card_id_apollon_frame_iml4.png"
     },
     {
         "id": "sf3-041-apollo-flame-v2",
@@ -7391,7 +7391,7 @@ export const sf3battlecards = [
         "description": "Solar Flare atk on fwd 3x3 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0191_card_id_apollon_frame_ex_iml4.png"
     },
     {
         "id": "sf3-042-apollo-flame-v3",
@@ -7407,7 +7407,7 @@ export const sf3battlecards = [
         "description": "Solar Flare atk on fwd 3x3 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0192_card_id_apollon_frame_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-apollo-flame-x",
@@ -7423,7 +7423,7 @@ export const sf3battlecards = [
         "description": "Fwd 3x3 Solar Flare attack",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0373_card_id_illegal_apollon_frame_x_iml4.png"
     },
     {
         "id": "sf3-043-sirius",
@@ -7439,7 +7439,7 @@ export const sf3battlecards = [
         "description": "Satellite Blazer atk on 3x4 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0193_card_id_sirius_iml4.png"
     },
     {
         "id": "sf3-044-sirius-v2",
@@ -7455,7 +7455,7 @@ export const sf3battlecards = [
         "description": "Satellite Blazer atk on 3x4 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0194_card_id_sirius_ex_iml4.png"
     },
     {
         "id": "sf3-045-sirius-v3",
@@ -7471,7 +7471,7 @@ export const sf3battlecards = [
         "description": "Satellite Blazer atk on 3x4 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0195_card_id_sirius_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-sirius-x",
@@ -7487,7 +7487,7 @@ export const sf3battlecards = [
         "description": "Satellite Blazer atk on 3x4 pnls",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0374_card_id_illegal_sirius_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-rocket-launch",
@@ -7504,7 +7504,7 @@ export const sf3battlecards = [
         "description": "Rush atk w/RocktLnch &GravRockt",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0351_card_id_illegal_axis_jet_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-rocket-launch-v2",
@@ -7521,7 +7521,7 @@ export const sf3battlecards = [
         "description": "Rush atk w/RocktLnch &GravRockt",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0352_card_id_illegal_axis_jet_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-rocket-launch-v3",
@@ -7538,7 +7538,7 @@ export const sf3battlecards = [
         "description": "Rush atk w/RocktLnch &GravRockt",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0353_card_id_illegal_axis_jet_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-rocket-launch-x",
@@ -7555,7 +7555,7 @@ export const sf3battlecards = [
         "description": "Rush atk w/RocktLnch &GravRockt",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0384_card_id_illegal_axis_jet_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-ice-hammer-break",
@@ -7572,7 +7572,7 @@ export const sf3battlecards = [
         "description": "Heavily Dmg 1 emy w/ DiamndIceHmr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0354_card_id_illegal_b_icehammer_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-ice-hammer-break-v2",
@@ -7589,7 +7589,7 @@ export const sf3battlecards = [
         "description": "Heavily Dmg 1 emy w/ DiamndIceHmr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0355_card_id_illegal_b_icehammer_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-ice-hammer-break-v3",
@@ -7606,7 +7606,7 @@ export const sf3battlecards = [
         "description": "Heavily Dmg 1 emy w/ DiamndIceHmr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0356_card_id_illegal_b_icehammer_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-ice-hammer-break-x",
@@ -7623,7 +7623,7 @@ export const sf3battlecards = [
         "description": "Heavily Dmg 1 emy w/ DiamndIceHmr",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0385_card_id_illegal_b_icehammer_x_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-strong-swing",
@@ -7640,7 +7640,7 @@ export const sf3battlecards = [
         "description": "Smack fwd 3 rows a total of 10 times",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0357_card_id_illegal_strong_swing_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-strong-swing-v2",
@@ -7657,7 +7657,7 @@ export const sf3battlecards = [
         "description": "Smack fwd 3 rows a total of 10 times",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0358_card_id_illegal_strong_swing_ex_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-strong-swing-v3",
@@ -7674,7 +7674,7 @@ export const sf3battlecards = [
         "description": "Smack fwd 3 rows a total of 10 times",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0359_card_id_illegal_strong_swing_sp_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-strong-swing-x",
@@ -7691,6 +7691,6 @@ export const sf3battlecards = [
         "description": "Smack fwd 3 rows a total of 10 times",
         "locations": [],
         "obtained": false,
-        "image": null
+        "image": "/assets/battlecardart/SF3/0386_card_id_illegal_strong_swing_x_iml4.png"
     },
 ]

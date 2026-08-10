@@ -20,7 +20,7 @@ export const sf3battlecards = [
         "description": "Atk knocks 1 enemy back 1 pnl if hits",
         "locations": [],
         "obtained": false,
-        "image": "../src/assets/battlecardart/SF3/0001_card_id_cannon_iml4.png"
+        "image": "/assets/battlecardart/SF3/0001_card_id_cannon_iml4.png"
     },
     {
         "id": "sf3-002-plus-cannon",
@@ -43,7 +43,7 @@ export const sf3battlecards = [
         "description": "Atk knocks 1 enemy back 1 pnl if hits",
         "locations": [],
         "obtained": false,
-        "image": "../src/assets/battlecardart/SF3/0002_card_id_plus_cannon_iml4.png"
+        "image": "/assets/battlecardart/SF3/0002_card_id_plus_cannon_iml4.png"
     },
     {
         "id": "sf3-003-heavy-cannon",
@@ -66,7 +66,7 @@ export const sf3battlecards = [
         "description": "Atk knocks 1 enemy back 1 pnl if hits",
         "locations": [],
         "obtained": false,
-        "image": "../src/assets/battlecardart/SF3/0003_card_id_heavy_cannon_iml4.png"
+        "image": "/assets/battlecardart/SF3/0003_card_id_heavy_cannon_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-impact-cannon",
@@ -112,7 +112,7 @@ export const sf3battlecards = [
         "description": "Atk and paralyze 1 enemy",
         "locations": [],
         "obtained": false,
-        "image": "../src/assets/battlecardart/SF3/0004_card_id_plasma_gun_iml4.png"
+        "image": "/assets/battlecardart/SF3/0004_card_id_plasma_gun_iml4.png"
     },
     {
         "id": "sf3-ILLEGAL-plasma-gun-x",

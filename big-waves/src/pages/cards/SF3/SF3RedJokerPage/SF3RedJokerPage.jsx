@@ -13,11 +13,10 @@ export default function SF3RedJokerPage() {
     useEffect(() => {
         setTheme('sf3rj');
         return () => setTheme('default');
-    }, []);
+    }, [setTheme]);
 
     const [search, setSearch] = useState('');
     const [classFilter, setClassFilter] = useState('ALL');
-    const [elementFilter, setElementFilter] = useState('ALL');
     const [obtainedFilter, setObtainedFilter] = useState('ALL');
 
     const { isObtained, toggleCard } = useCardTracker();

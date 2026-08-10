@@ -16,7 +16,7 @@ export const SF3BAVersionExclusiveCards =
             "description": "3-pnl wide fwd center break attack",
             "locations": [],
             "obtained": false,
-            "image": '../src/assets/battlecardart/SF3/0196_card_id_wing_blade_iml4.png'
+            "image": '/assets/battlecardart/SF3/0196_card_id_wing_blade_iml4.png'
         },
         {
             "id": "sf3-002-darkness-hole",

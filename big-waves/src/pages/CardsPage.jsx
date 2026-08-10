@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { GAMES, CARD_CLASSES } from '../data/cards/battlecards';
+import { CARD_CLASSES } from '../data/cards/battlecards';
 import { useCardTracker } from '../hooks/useCardTracker';
 import { SF3BABattlecards } from '../data/cards/battlecards';
 import { SF3RJBattlecards } from '../data/cards/battlecards';
@@ -78,7 +78,7 @@ export default function CardsPage() {
             {/* Progress section */}
             <div style={{ marginTop: '32px', maxWidth: '480px' }}>
                 <h2 style={{ marginBottom: '20px' }}>
-                    {GAMES[activeTab]} — {totalObtained} / {gameCards.length} obtained
+                    {TABS.find(t => t.key === activeTab)?.label} — {totalObtained} / {gameCards.length} obtained
                 </h2>
 
                 {byClass.map(({ key, label, total, obtained: got }) => (
@@ -105,7 +105,7 @@ export default function CardsPage() {
                         fontWeight: 'bold',
                     }}
                 >
-                    View All {GAMES[activeTab]} Cards →
+                    View All {TABS.find(t => t.key === activeTab)?.label} Cards →
                 </Link>
             </div>
         </div>

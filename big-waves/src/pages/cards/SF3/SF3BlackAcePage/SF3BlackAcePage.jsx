@@ -1,7 +1,7 @@
 import { useState, useMemo, useEffect } from 'react';
 import { useTheme } from '../../../../components/ThemeContext';
 import { SF3BABattlecards } from '../../../../data/cards/battlecards';
-import { CARD_CLASSES, ELEMENTS } from '../../../../data/cards/battlecards';
+import { CARD_CLASSES } from '../../../../data/cards/battlecards';
 import { useCardTracker } from '../../../../hooks/useCardTracker';
 import BattleCard from '../../../../components/BattleCard';
 import styles from './css/SF3BlackAcePage.module.css';
@@ -14,11 +14,10 @@ export default function SF3BlackAcePage() {
     useEffect(() => {
         setTheme('sf3ba');
         return () => setTheme('default');
-    }, []);
+    }, [setTheme]);
 
     const [search, setSearch] = useState('');
     const [classFilter, setClassFilter] = useState('ALL');
-    const [elementFilter, setElementFilter] = useState('ALL');
     const [obtainedFilter, setObtainedFilter] = useState('ALL');
 
     const { isObtained, toggleCard } = useCardTracker();
@@ -38,7 +37,7 @@ export default function SF3BlackAcePage() {
             }
             return true;
         });
-    }, [search, classFilter, elementFilter, obtainedFilter, isObtained]);
+    }, [search, classFilter, obtainedFilter, isObtained]);
 
     const total = SF3BABattlecards.length;
     const obtained = SF3BABattlecards.filter(c => isObtained(c.id)).length;

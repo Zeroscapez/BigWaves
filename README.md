@@ -23,10 +23,11 @@ SF1 and SF2 support coming soon.
 
 ## Tech Stack
 
-- React 18
+- React 19
 - Vite
-- React Router v6
+- React Router v7
 - CSS Modules
+- Vercel Analytics
 
 ## Getting Started
 
